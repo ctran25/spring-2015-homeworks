@@ -39,12 +39,11 @@ def parse_hotel_page(hotelURL):
         ''' TRAVEL RATINGS ==================================================='''
         travelRating = ratingForm.find("div", {"class" : "col2of2 composite"})
         ratingTitle = ratingForm.find("div", {"class" : "colTitle"}).text
-        # hotelDictionary[hotel][ratingTitle] = {}
         ratingRows = travelRating.findAll("div", {"class": "wrap row"})
         for row in ratingRows:
             rowTitle = row.find("span", {"class" : "rdoSet"}).text
             numRatings = row.find("span", {"class" : "compositeCount"}).text
-            hotelDictionary[hotel][rowTitle] = numRatings
+            hotelDictionary[hotel][rowTitle] = int(numRatings.replace(',', ''))
 
         ''' SEE REVIEWS FOR =================================================='''
         tripTypes = ratingForm.find("div", {"class" : "trip_type"})
@@ -54,22 +53,22 @@ def parse_hotel_page(hotelURL):
         familyRow = tripTypes.find("div", {"class" : "segment segment1"})
         family = tripTypes.find("div", {"class" : "sprite-tt-family-active-refresh filter_selection taLnk hvrIE6 ulBlueLinks"}).text
         familyCount = familyRow.find("div", {"class" : "value"}).text
-        hotelDictionary[hotel][family] = familyCount
+        hotelDictionary[hotel][family] = int(familyCount.replace(',', ''))
 
         couplesRow = tripTypes.find("div", {"class" : "segment segment2"})
         couple = tripTypes.find("div", {"class" : "sprite-tt-couples-active-refresh filter_selection taLnk hvrIE6 ulBlueLinks"}).text
         coupleCount = couplesRow.find("div", {"class" : "value"}).text
-        hotelDictionary[hotel][couple] = coupleCount
+        hotelDictionary[hotel][couple] = int(coupleCount.replace(',', ''))
 
         soloRow = tripTypes.find("div", {"class" : "segment segment3"})
         solo = tripTypes.find("div", {"class" : "sprite-tt-solo-active-refresh filter_selection taLnk hvrIE6 ulBlueLinks"}).text
         soloCount = soloRow.find("div", {"class" : "value"}).text
-        hotelDictionary[hotel][solo] = soloCount
+        hotelDictionary[hotel][solo] = int(soloCount.replace(',', ''))
 
         businessRow = tripTypes.find("div", {"class" : "segment segment4"})
         business = tripTypes.find("div", {"class" : "sprite-tt-business-active-refresh filter_selection taLnk hvrIE6 ulBlueLinks"}).text
         businessCount = businessRow.find("div", {"class" : "value"}).text
-        hotelDictionary[hotel][business] = businessCount
+        hotelDictionary[hotel][business] = int(businessCount.replace(',', ''))
 
         ''' RATING SUMMARY ===================================================='''
         summary = ratingForm.find("div", {"id" : "SUMMARYBOX"})
@@ -79,7 +78,7 @@ def parse_hotel_page(hotelURL):
         for row in locationRow:
             rowTitle = row.find("div", {"class" : "name"}).text
             sRating = row.find("img", {"src" : "http://e2.tacdn.com/img2/x.gif"})
-            hotelDictionary[hotel][rowTitle] = sRating['alt'].split()[0]
+            hotelDictionary[hotel][rowTitle] = float(sRating['alt'].split()[0])
     return hotelDictionary
 
 
