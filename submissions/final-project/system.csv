@@ -1,0 +1,1832 @@
+planet_name,star_name,pl_status,discovery_method,pl_in_system,moons_system,transit,binary_star
+4 UMa b,4 UMa,3,Radial Velocity,1,0,0,0
+6 Lyn b,6 Lyn,3,Radial Velocity,1,0,0,0
+7 CMa b,7 CMa,3,Radial Velocity,1,0,0,0
+11 Com b,11 Com,3,Radial Velocity,1,0,0,0
+11 UMi b,11 UMi,3,Radial Velocity,1,0,0,0
+14 And b,14 And,3,Radial Velocity,1,0,0,0
+14 Her b,14 Her,3,Radial Velocity,1,0,0,0
+16 Cyg B b,16 Cyg B,3,Radial Velocity,1,0,0,0
+18 Del b,18 Del,3,Radial Velocity,1,0,0,0
+24 Sex b,24 Sex,3,Radial Velocity,2,0,0,0
+24 Sex c,24 Sex,3,Radial Velocity,2,0,0,0
+30 Ari B b,30 Ari B,3,Radial Velocity,1,0,0,0
+42 Dra b,42 Dra,3,Radial Velocity,1,0,0,0
+47 UMa b,47 UMa,3,Radial Velocity,3,0,0,0
+47 UMa c,47 UMa,3,Radial Velocity,3,0,0,0
+47 UMa d,47 UMa,3,Radial Velocity,3,0,0,0
+51 Peg b,51 Peg,3,Radial Velocity,1,0,0,0
+55 Cnc b,55 Cnc,3,Radial Velocity,5,0,0,0
+55 Cnc c,55 Cnc,3,Radial Velocity,5,0,0,0
+55 Cnc d,55 Cnc,3,Radial Velocity,5,0,0,0
+55 Cnc e,55 Cnc,3,Radial Velocity,5,0,1,0
+55 Cnc f,55 Cnc,3,Radial Velocity,5,0,0,0
+61 Vir b,61 Vir,3,Radial Velocity,3,0,0,0
+61 Vir c,61 Vir,3,Radial Velocity,3,0,0,0
+61 Vir d,61 Vir,3,Radial Velocity,3,0,0,0
+70 Vir b,70 Vir,3,Radial Velocity,1,0,0,0
+75 Cet b,75 Cet,3,Radial Velocity,1,0,0,0
+81 Cet b,81 Cet,3,Radial Velocity,1,0,0,0
+91 Aqr b,91 Aqr,3,Radial Velocity,1,0,0,0
+AB Pic b,AB Pic,3,Imaging,1,0,0,0
+CT Cha b,CT Cha,3,Imaging,1,0,0,0
+DH Tau b,DH Tau,3,Imaging,1,0,0,0
+DP Leo b,DP Leo,3,Eclipse Timing Variations,1,0,0,1
+FU Tau b,FU Tau,3,Imaging,1,0,0,0
+GQ Lup b,GQ Lup,3,Imaging,1,0,0,0
+GU Psc b,GU Psc,3,Imaging,1,0,0,0
+HN Peg b,HN Peg,3,Imaging,1,0,0,0
+NN Ser c,NN Ser,3,Eclipse Timing Variations,2,0,0,1
+NN Ser d,NN Ser,3,Eclipse Timing Variations,2,0,0,1
+NY Vir b,NY Vir,3,Eclipse Timing Variations,1,0,0,1
+RR Cae b,RR Cae,3,Eclipse Timing Variations,1,0,0,1
+UZ For b,UZ For,3,Eclipse Timing Variations,2,0,0,1
+UZ For c,UZ For,3,Eclipse Timing Variations,2,0,0,1
+alf Ari b,alf Ari,3,Radial Velocity,1,0,0,0
+alf Cen B b,alf Cen B,3,Radial Velocity,1,0,0,0
+bet Cnc b,bet Cnc,3,Radial Velocity,1,0,0,0
+bet Pic b,bet Pic,3,Imaging,1,0,0,0
+bet UMi b,bet UMi,3,Radial Velocity,1,0,0,0
+eps Eri b,eps Eri,3,Radial Velocity,1,0,0,0
+eps CrB b,eps CrB,3,Radial Velocity,1,0,0,0
+eps Tau b,eps Tau,3,Radial Velocity,1,0,0,0
+gam 1 Leo b,gam 1 Leo,3,Radial Velocity,1,0,0,0
+gam Cep b,gam Cep,3,Radial Velocity,1,0,0,0
+kap CrB b,kap CrB,3,Radial Velocity,1,0,0,0
+kap And b,kap And,3,Imaging,1,0,0,0
+mu Leo b,mu Leo,3,Radial Velocity,1,0,0,0
+nu Oph b,nu Oph,3,Radial Velocity,2,0,0,0
+nu Oph c,nu Oph,3,Radial Velocity,2,0,0,0
+ome Ser b,ome Ser,3,Radial Velocity,1,0,0,0
+omi CrB b,omi CrB,3,Radial Velocity,1,0,0,0
+omi UMa b,omi UMa,3,Radial Velocity,1,0,0,0
+rho CrB b,rho CrB,3,Radial Velocity,1,0,0,0
+tau Boo b,tau Boo,3,Radial Velocity,1,0,0,0
+tau Gem b,tau Gem,3,Radial Velocity,1,0,0,0
+ups And b,ups And,3,Radial Velocity,4,0,0,0
+ups And c,ups And,3,Radial Velocity,4,0,0,0
+ups And d,ups And,3,Radial Velocity,4,0,0,0
+ups And e,ups And,3,Radial Velocity,4,0,0,0
+xi Aql b,xi Aql,3,Radial Velocity,1,0,0,0
+Fomalhaut b,Fomalhaut,3,Imaging,1,0,0,0
+Kapteyn b,Kapteyn,3,Radial Velocity,2,0,0,0
+Kapteyn c,Kapteyn,3,Radial Velocity,2,0,0,0
+1RXS J160929.1-210524 b,1RXS J160929.1-210524,3,Imaging,1,0,0,0
+2MASS J01225093-2439505 b,2MASS J01225093-2439505,3,Imaging,1,0,0,0
+2MASS J04414489+2301513 b,2MASS J04414489+2301513,3,Imaging,1,0,0,0
+2MASS J12073346-3932539 b,2MASS J12073346-3932539,3,Imaging,1,0,0,0
+2MASS J21402931+1625183 A b,2MASS J21402931+1625183 A,3,Imaging,1,0,0,0
+BD-17 63 b,BD-17 63,3,Radial Velocity,1,0,0,0
+BD-13 2130 b,BD-13 2130,3,Radial Velocity,1,0,0,0
+BD-11 4672 b,BD-11 4672,3,Radial Velocity,1,0,0,0
+BD-10 3166 b,BD-10 3166,3,Radial Velocity,1,0,0,0
+BD-08 2823 b,BD-08 2823,3,Radial Velocity,2,0,0,0
+BD-08 2823 c,BD-08 2823,3,Radial Velocity,2,0,0,0
+BD-06 1339 b,BD-06 1339,3,Radial Velocity,2,0,0,0
+BD-06 1339 c,BD-06 1339,3,Radial Velocity,2,0,0,0
+BD+14 4559 b,BD+14 4559,3,Radial Velocity,1,0,0,0
+BD+15 2940 b,BD+15 2940,3,Radial Velocity,1,0,0,0
+BD+20 274 b,BD+20 274,3,Radial Velocity,1,0,0,0
+BD+20 1790 b,BD+20 1790,3,Radial Velocity,1,0,0,0
+BD+20 2457 b,BD+20 2457,3,Radial Velocity,2,0,0,0
+BD+20 2457 c,BD+20 2457,3,Radial Velocity,2,0,0,0
+BD+48 738 b,BD+48 738,3,Radial Velocity,1,0,0,0
+BD+49 828 b,BD+49 828,3,Radial Velocity,1,0,0,0
+CFBDSIR J145829+101343 b,CFBDSIR J145829+101343,3,Imaging,1,0,0,0
+CHXR 73 b,CHXR 73,3,Imaging,1,0,0,0
+CoRoT-1 b,CoRoT-1,3,Transit,1,0,1,0
+CoRoT-2 b,CoRoT-2,3,Transit,1,0,1,0
+CoRoT-3 b,CoRoT-3,3,Transit,1,0,1,0
+CoRoT-4 b,CoRoT-4,3,Transit,1,0,1,0
+CoRoT-5 b,CoRoT-5,3,Transit,1,0,1,0
+CoRoT-6 b,CoRoT-6,3,Transit,1,0,1,0
+CoRoT-7 b,CoRoT-7,3,Transit,2,0,1,0
+CoRoT-7 c,CoRoT-7,3,Radial Velocity,2,0,0,0
+CoRoT-8 b,CoRoT-8,3,Transit,1,0,1,0
+CoRoT-9 b,CoRoT-9,3,Transit,1,0,1,0
+CoRoT-10 b,CoRoT-10,3,Transit,1,0,1,0
+CoRoT-11 b,CoRoT-11,3,Transit,1,0,1,0
+CoRoT-12 b,CoRoT-12,3,Transit,1,0,1,0
+CoRoT-13 b,CoRoT-13,3,Transit,1,0,1,0
+CoRoT-14 b,CoRoT-14,3,Transit,1,0,1,0
+CoRoT-16 b,CoRoT-16,3,Transit,1,0,1,0
+CoRoT-17 b,CoRoT-17,3,Transit,1,0,1,0
+CoRoT-18 b,CoRoT-18,3,Transit,1,0,1,0
+CoRoT-19 b,CoRoT-19,3,Transit,1,0,1,0
+CoRoT-20 b,CoRoT-20,3,Transit,1,0,1,0
+CoRoT-22 b,CoRoT-22,3,Transit,1,0,1,0
+CoRoT-23 b,CoRoT-23,3,Transit,1,0,1,0
+CoRoT-24 b,CoRoT-24,3,Transit,2,0,1,0
+CoRoT-24 c,CoRoT-24,3,Transit,2,0,1,0
+CoRoT-25 b,CoRoT-25,3,Transit,1,0,1,0
+CoRoT-26 b,CoRoT-26,3,Transit,1,0,1,0
+CoRoT-27 b,CoRoT-27,3,Transit,1,0,1,0
+CoRoT-28 b,CoRoT-28,3,Transit,1,0,1,0
+CoRoT-29 b,CoRoT-29,3,Transit,1,0,1,0
+DENIS-P J082303.1-491201 b,DENIS-P J082303.1-491201,3,Astrometry,1,0,0,0
+GJ 86 b,GJ 86,3,Radial Velocity,1,0,0,0
+GJ 15 A b,GJ 15 A,3,Radial Velocity,1,0,0,0
+GJ 163 b,GJ 163,3,Radial Velocity,3,0,0,0
+GJ 163 c,GJ 163,3,Radial Velocity,3,0,0,0
+GJ 163 d,GJ 163,3,Radial Velocity,3,0,0,0
+GJ 179 b,GJ 179,3,Radial Velocity,1,0,0,0
+GJ 317 b,GJ 317,3,Radial Velocity,1,0,0,0
+GJ 328 b,GJ 328,3,Radial Velocity,1,0,0,0
+GJ 433 b,GJ 433,3,Radial Velocity,1,0,0,0
+GJ 436 b,GJ 436,3,Radial Velocity,1,0,1,0
+GJ 504 b,GJ 504,3,Imaging,1,0,0,0
+GJ 581 b,GJ 581,3,Radial Velocity,3,0,0,0
+GJ 581 c,GJ 581,3,Radial Velocity,3,0,0,0
+GJ 581 e,GJ 581,3,Radial Velocity,3,0,0,0
+GJ 649 b,GJ 649,3,Radial Velocity,1,0,0,0
+GJ 667 C b,GJ 667 C,3,Radial Velocity,5,0,0,0
+GJ 667 C c,GJ 667 C,3,Radial Velocity,5,0,0,0
+GJ 667 C e,GJ 667 C,3,Radial Velocity,5,0,0,0
+GJ 667 C f,GJ 667 C,3,Radial Velocity,5,0,0,0
+GJ 667 C g,GJ 667 C,3,Radial Velocity,5,0,0,0
+GJ 674 b,GJ 674,3,Radial Velocity,1,0,0,0
+GJ 676 A b,GJ 676 A,3,Radial Velocity,3,0,0,0
+GJ 676 A d,GJ 676 A,3,Radial Velocity,3,0,0,0
+GJ 676 A e,GJ 676 A,3,Radial Velocity,3,0,0,0
+GJ 687 b,GJ 687,3,Radial Velocity,1,0,0,0
+GJ 832 b,GJ 832,3,Radial Velocity,2,0,0,0
+GJ 832 c,GJ 832,3,Radial Velocity,2,0,0,0
+GJ 849 b,GJ 849,3,Radial Velocity,1,0,0,0
+GJ 876 b,GJ 876,3,Radial Velocity,4,0,0,0
+GJ 876 c,GJ 876,3,Radial Velocity,4,0,0,0
+GJ 876 d,GJ 876,3,Radial Velocity,4,0,0,0
+GJ 876 e,GJ 876,3,Radial Velocity,4,0,0,0
+GJ 1214 b,GJ 1214,3,Transit,1,0,1,0
+GJ 3021 b,GJ 3021,3,Radial Velocity,1,0,0,0
+GJ 3293 b,GJ 3293,3,Radial Velocity,2,0,0,0
+GJ 3293 c,GJ 3293,3,Radial Velocity,2,0,0,0
+GJ 3341 b,GJ 3341,3,Radial Velocity,1,0,0,0
+GJ 3470 b,GJ 3470,3,Radial Velocity,1,0,1,0
+GJ 3634 b,GJ 3634,3,Radial Velocity,1,0,0,0
+GSC 06214-00210 b,GSC 06214-00210,3,Imaging,1,0,0,0
+HAT-P-1 b,HAT-P-1,3,Transit,1,0,1,0
+HAT-P-2 b,HAT-P-2,3,Transit,1,0,1,0
+HAT-P-3 b,HAT-P-3,3,Transit,1,0,1,0
+HAT-P-4 b,HAT-P-4,3,Transit,1,0,1,0
+HAT-P-5 b,HAT-P-5,3,Transit,1,0,1,0
+HAT-P-6 b,HAT-P-6,3,Transit,1,0,1,0
+HAT-P-8 b,HAT-P-8,3,Transit,1,0,1,0
+HAT-P-9 b,HAT-P-9,3,Transit,1,0,1,0
+HAT-P-12 b,HAT-P-12,3,Transit,1,0,1,0
+HAT-P-13 b,HAT-P-13,3,Transit,2,0,1,0
+HAT-P-13 c,HAT-P-13,3,Radial Velocity,2,0,0,0
+HAT-P-14 b,HAT-P-14,3,Transit,1,0,1,0
+HAT-P-15 b,HAT-P-15,3,Transit,1,0,1,0
+HAT-P-16 b,HAT-P-16,3,Transit,1,0,1,0
+HAT-P-17 b,HAT-P-17,3,Transit,2,0,1,0
+HAT-P-17 c,HAT-P-17,3,Radial Velocity,2,0,0,0
+HAT-P-18 b,HAT-P-18,3,Transit,1,0,1,0
+HAT-P-19 b,HAT-P-19,3,Transit,1,0,1,0
+HAT-P-20 b,HAT-P-20,3,Transit,1,0,1,0
+HAT-P-21 b,HAT-P-21,3,Transit,1,0,1,0
+HAT-P-22 b,HAT-P-22,3,Transit,1,0,1,0
+HAT-P-23 b,HAT-P-23,3,Transit,1,0,1,0
+HAT-P-24 b,HAT-P-24,3,Transit,1,0,1,0
+HAT-P-25 b,HAT-P-25,3,Transit,1,0,1,0
+HAT-P-26 b,HAT-P-26,3,Transit,1,0,1,0
+HAT-P-27 b,HAT-P-27,3,Transit,1,0,1,0
+HAT-P-28 b,HAT-P-28,3,Transit,1,0,1,0
+HAT-P-29 b,HAT-P-29,3,Transit,1,0,1,0
+HAT-P-30 b,HAT-P-30,3,Transit,1,0,1,0
+HAT-P-31 b,HAT-P-31,3,Transit,1,0,1,0
+HAT-P-32 b,HAT-P-32,3,Transit,1,0,1,0
+HAT-P-33 b,HAT-P-33,3,Transit,1,0,1,0
+HAT-P-34 b,HAT-P-34,3,Transit,1,0,1,0
+HAT-P-35 b,HAT-P-35,3,Transit,1,0,1,0
+HAT-P-36 b,HAT-P-36,3,Transit,1,0,1,0
+HAT-P-37 b,HAT-P-37,3,Transit,1,0,1,0
+HAT-P-38 b,HAT-P-38,3,Transit,1,0,1,0
+HAT-P-39 b,HAT-P-39,3,Transit,1,0,1,0
+HAT-P-40 b,HAT-P-40,3,Transit,1,0,1,0
+HAT-P-41 b,HAT-P-41,3,Transit,1,0,1,0
+HAT-P-42 b,HAT-P-42,3,Transit,1,0,1,0
+HAT-P-43 b,HAT-P-43,3,Transit,1,0,1,0
+HAT-P-44 b,HAT-P-44,3,Transit,2,0,1,0
+HAT-P-44 c,HAT-P-44,3,Radial Velocity,2,0,0,0
+HAT-P-45 b,HAT-P-45,3,Transit,1,0,1,0
+HAT-P-46 b,HAT-P-46,3,Transit,1,0,1,0
+HAT-P-49 b,HAT-P-49,3,Transit,1,0,1,0
+HAT-P-54 b,HAT-P-54,3,Transit,1,0,1,0
+HATS-1 b,HATS-1,3,Transit,1,0,1,0
+HATS-2 b,HATS-2,3,Transit,1,0,1,0
+HATS-3 b,HATS-3,3,Transit,1,0,1,0
+HATS-4 b,HATS-4,3,Transit,1,0,1,0
+HATS-5 b,HATS-5,3,Transit,1,0,1,0
+HD 142 b,HD 142,3,Radial Velocity,2,0,0,0
+HD 142 c,HD 142,3,Radial Velocity,2,0,0,0
+HD 564 b,HD 564,3,Radial Velocity,1,0,0,0
+HD 1461 b,HD 1461,3,Radial Velocity,1,0,0,0
+HD 1502 b,HD 1502,3,Radial Velocity,1,0,0,0
+HD 1605 b,HD 1605,3,Radial Velocity,2,0,0,0
+HD 1605 c,HD 1605,3,Radial Velocity,2,0,0,0
+HD 1666 b,HD 1666,3,Radial Velocity,1,0,0,0
+HD 1690 b,HD 1690,3,Radial Velocity,1,0,0,0
+HD 2039 b,HD 2039,3,Radial Velocity,1,0,0,0
+HD 2638 b,HD 2638,3,Radial Velocity,1,0,0,0
+HD 2952 b,HD 2952,3,Radial Velocity,1,0,0,0
+HD 3651 b,HD 3651,3,Radial Velocity,1,0,0,0
+HD 4113 b,HD 4113,3,Radial Velocity,1,0,0,0
+HD 4208 b,HD 4208,3,Radial Velocity,1,0,0,0
+HD 4308 b,HD 4308,3,Radial Velocity,1,0,0,0
+HD 4203 b,HD 4203,3,Radial Velocity,2,0,0,0
+HD 4203 c,HD 4203,3,Radial Velocity,2,0,0,0
+HD 4313 b,HD 4313,3,Radial Velocity,1,0,0,0
+HD 4732 b,HD 4732,3,Radial Velocity,2,0,0,0
+HD 4732 c,HD 4732,3,Radial Velocity,2,0,0,0
+HD 5319 b,HD 5319,3,Radial Velocity,2,0,0,0
+HD 5319 c,HD 5319,3,Radial Velocity,2,0,0,0
+HD 5608 b,HD 5608,3,Radial Velocity,1,0,0,0
+HD 5891 b,HD 5891,3,Radial Velocity,1,0,0,0
+HD 6434 b,HD 6434,3,Radial Velocity,1,0,0,0
+HD 6718 b,HD 6718,3,Radial Velocity,1,0,0,0
+HD 7199 b,HD 7199,3,Radial Velocity,1,0,0,0
+HD 7449 b,HD 7449,3,Radial Velocity,2,0,0,0
+HD 7449 c,HD 7449,3,Radial Velocity,2,0,0,0
+HD 7924 b,HD 7924,3,Radial Velocity,1,0,0,0
+HD 8535 b,HD 8535,3,Radial Velocity,1,0,0,0
+HD 8574 b,HD 8574,3,Radial Velocity,1,0,0,0
+HD 8673 b,HD 8673,3,Radial Velocity,1,0,0,0
+HD 9446 b,HD 9446,3,Radial Velocity,2,0,0,0
+HD 9446 c,HD 9446,3,Radial Velocity,2,0,0,0
+HD 10180 c,HD 10180,3,Radial Velocity,6,0,0,0
+HD 10180 d,HD 10180,3,Radial Velocity,6,0,0,0
+HD 10180 e,HD 10180,3,Radial Velocity,6,0,0,0
+HD 10180 f,HD 10180,3,Radial Velocity,6,0,0,0
+HD 10180 g,HD 10180,3,Radial Velocity,6,0,0,0
+HD 10180 h,HD 10180,3,Radial Velocity,6,0,0,0
+HD 10442 b,HD 10442,3,Radial Velocity,1,0,0,0
+HD 10647 b,HD 10647,3,Radial Velocity,1,0,0,0
+HD 10697 b,HD 10697,3,Radial Velocity,1,0,0,0
+HD 11506 b,HD 11506,3,Radial Velocity,2,0,0,0
+HD 11506 c,HD 11506,3,Radial Velocity,2,0,0,0
+HD 11977 b,HD 11977,3,Radial Velocity,1,0,0,0
+HD 11964 b,HD 11964,3,Radial Velocity,2,0,0,0
+HD 11964 c,HD 11964,3,Radial Velocity,2,0,0,0
+HD 12661 b,HD 12661,3,Radial Velocity,2,0,0,0
+HD 12661 c,HD 12661,3,Radial Velocity,2,0,0,0
+HD 13189 b,HD 13189,3,Radial Velocity,1,0,0,0
+HD 13908 b,HD 13908,3,Radial Velocity,2,0,0,0
+HD 13908 c,HD 13908,3,Radial Velocity,2,0,0,0
+HD 13931 b,HD 13931,3,Radial Velocity,1,0,0,0
+HD 14067 b,HD 14067,3,Radial Velocity,1,0,0,0
+HD 16141 b,HD 16141,3,Radial Velocity,1,0,0,0
+HD 16417 b,HD 16417,3,Radial Velocity,1,0,0,0
+HD 16175 b,HD 16175,3,Radial Velocity,1,0,0,0
+HD 17092 b,HD 17092,3,Radial Velocity,1,0,0,0
+HD 17156 b,HD 17156,3,Radial Velocity,1,0,1,0
+HD 18742 b,HD 18742,3,Radial Velocity,1,0,0,0
+HD 19994 b,HD 19994,3,Radial Velocity,1,0,0,0
+HD 20794 b,HD 20794,3,Radial Velocity,3,0,0,0
+HD 20794 c,HD 20794,3,Radial Velocity,3,0,0,0
+HD 20794 d,HD 20794,3,Radial Velocity,3,0,0,0
+HD 20782 b,HD 20782,3,Radial Velocity,1,0,0,0
+HD 20868 b,HD 20868,3,Radial Velocity,1,0,0,0
+HD 23127 b,HD 23127,3,Radial Velocity,1,0,0,0
+HD 23079 b,HD 23079,3,Radial Velocity,1,0,0,0
+HD 22781 b,HD 22781,3,Radial Velocity,1,0,0,0
+HD 23596 b,HD 23596,3,Radial Velocity,1,0,0,0
+HD 24040 b,HD 24040,3,Radial Velocity,1,0,0,0
+HD 25171 b,HD 25171,3,Radial Velocity,1,0,0,0
+HD 27442 b,HD 27442,3,Radial Velocity,1,0,0,0
+HD 27631 b,HD 27631,3,Radial Velocity,1,0,0,0
+HD 27894 b,HD 27894,3,Radial Velocity,1,0,0,0
+HD 28254 b,HD 28254,3,Radial Velocity,1,0,0,0
+HD 28185 b,HD 28185,3,Radial Velocity,1,0,0,0
+HD 28678 b,HD 28678,3,Radial Velocity,1,0,0,0
+HD 30177 b,HD 30177,3,Radial Velocity,1,0,0,0
+HD 30562 b,HD 30562,3,Radial Velocity,1,0,0,0
+HD 30669 b,HD 30669,3,Radial Velocity,1,0,0,0
+HD 30856 b,HD 30856,3,Radial Velocity,1,0,0,0
+HD 31253 b,HD 31253,3,Radial Velocity,1,0,0,0
+HD 32518 b,HD 32518,3,Radial Velocity,1,0,0,0
+HD 33142 b,HD 33142,3,Radial Velocity,1,0,0,0
+HD 33283 b,HD 33283,3,Radial Velocity,1,0,0,0
+HD 33564 b,HD 33564,3,Radial Velocity,1,0,0,0
+HD 34445 b,HD 34445,3,Radial Velocity,1,0,0,0
+HD 37124 b,HD 37124,3,Radial Velocity,3,0,0,0
+HD 37124 c,HD 37124,3,Radial Velocity,3,0,0,0
+HD 37124 d,HD 37124,3,Radial Velocity,3,0,0,0
+HD 37605 b,HD 37605,3,Radial Velocity,2,0,0,0
+HD 37605 c,HD 37605,3,Radial Velocity,2,0,0,0
+HD 38283 b,HD 38283,3,Radial Velocity,1,0,0,0
+HD 38529 b,HD 38529,3,Radial Velocity,2,0,0,0
+HD 38529 c,HD 38529,3,Radial Velocity,2,0,0,0
+HD 38801 b,HD 38801,3,Radial Velocity,1,0,0,0
+HD 39091 b,HD 39091,3,Radial Velocity,1,0,0,0
+HD 40307 b,HD 40307,3,Radial Velocity,6,0,0,0
+HD 40307 c,HD 40307,3,Radial Velocity,6,0,0,0
+HD 40307 d,HD 40307,3,Radial Velocity,6,0,0,0
+HD 40307 e,HD 40307,3,Radial Velocity,6,0,0,0
+HD 40307 f,HD 40307,3,Radial Velocity,6,0,0,0
+HD 40307 g,HD 40307,3,Radial Velocity,6,0,0,0
+HD 40979 b,HD 40979,3,Radial Velocity,1,0,0,0
+HD 41004 A b,HD 41004 A,3,Radial Velocity,1,0,0,0
+HD 41004 B b,HD 41004 B,3,Radial Velocity,1,0,0,0
+HD 43197 b,HD 43197,3,Radial Velocity,1,0,0,0
+HD 43691 b,HD 43691,3,Radial Velocity,1,0,0,0
+HD 44219 b,HD 44219,3,Radial Velocity,1,0,0,0
+HD 45364 b,HD 45364,3,Radial Velocity,2,0,0,0
+HD 45364 c,HD 45364,3,Radial Velocity,2,0,0,0
+HD 45350 b,HD 45350,3,Radial Velocity,1,0,0,0
+HD 45652 b,HD 45652,3,Radial Velocity,1,0,0,0
+HD 46375 b,HD 46375,3,Radial Velocity,1,0,0,0
+HD 47186 b,HD 47186,3,Radial Velocity,2,0,0,0
+HD 47186 c,HD 47186,3,Radial Velocity,2,0,0,0
+HD 47536 b,HD 47536,3,Radial Velocity,1,0,0,0
+HD 48265 b,HD 48265,3,Radial Velocity,1,0,0,0
+HD 49674 b,HD 49674,3,Radial Velocity,1,0,0,0
+HD 50499 b,HD 50499,3,Radial Velocity,1,0,0,0
+HD 50554 b,HD 50554,3,Radial Velocity,1,0,0,0
+HD 52265 b,HD 52265,3,Radial Velocity,1,0,0,0
+HD 60532 b,HD 60532,3,Radial Velocity,2,0,0,0
+HD 60532 c,HD 60532,3,Radial Velocity,2,0,0,0
+HD 62509 b,HD 62509,3,Radial Velocity,1,0,0,0
+HD 63454 b,HD 63454,3,Radial Velocity,1,0,0,0
+HD 63765 b,HD 63765,3,Radial Velocity,1,0,0,0
+HD 65216 b,HD 65216,3,Radial Velocity,2,0,0,0
+HD 65216 c,HD 65216,3,Radial Velocity,2,0,0,0
+HD 66141 b,HD 66141,3,Radial Velocity,1,0,0,0
+HD 66428 b,HD 66428,3,Radial Velocity,1,0,0,0
+HD 67087 b,HD 67087,3,Radial Velocity,2,0,0,0
+HD 67087 c,HD 67087,3,Radial Velocity,2,0,0,0
+HD 68988 b,HD 68988,3,Radial Velocity,1,0,0,0
+HD 69830 b,HD 69830,3,Radial Velocity,3,0,0,0
+HD 69830 c,HD 69830,3,Radial Velocity,3,0,0,0
+HD 69830 d,HD 69830,3,Radial Velocity,3,0,0,0
+HD 70573 b,HD 70573,3,Radial Velocity,1,0,0,0
+HD 70642 b,HD 70642,3,Radial Velocity,1,0,0,0
+HD 72659 b,HD 72659,3,Radial Velocity,1,0,0,0
+HD 73256 b,HD 73256,3,Radial Velocity,1,0,0,0
+HD 73267 b,HD 73267,3,Radial Velocity,1,0,0,0
+HD 73526 b,HD 73526,3,Radial Velocity,2,0,0,0
+HD 73526 c,HD 73526,3,Radial Velocity,2,0,0,0
+HD 73534 b,HD 73534,3,Radial Velocity,1,0,0,0
+HD 74156 b,HD 74156,3,Radial Velocity,2,0,0,0
+HD 74156 c,HD 74156,3,Radial Velocity,2,0,0,0
+HD 75289 b,HD 75289,3,Radial Velocity,1,0,0,0
+HD 75784 b,HD 75784,3,Radial Velocity,1,0,0,0
+HD 75898 b,HD 75898,3,Radial Velocity,1,0,0,0
+HD 76700 b,HD 76700,3,Radial Velocity,1,0,0,0
+HD 77338 b,HD 77338,3,Radial Velocity,1,0,0,0
+HD 79498 b,HD 79498,3,Radial Velocity,1,0,0,0
+HD 80606 b,HD 80606,3,Radial Velocity,1,0,1,0
+HD 81040 b,HD 81040,3,Radial Velocity,1,0,0,0
+HD 81688 b,HD 81688,3,Radial Velocity,1,0,0,0
+HD 82943 b,HD 82943,3,Radial Velocity,2,0,0,0
+HD 82943 c,HD 82943,3,Radial Velocity,2,0,0,0
+HD 82886 b,HD 82886,3,Radial Velocity,1,0,0,0
+HD 83443 b,HD 83443,3,Radial Velocity,1,0,0,0
+HD 85390 b,HD 85390,3,Radial Velocity,1,0,0,0
+HD 85512 b,HD 85512,3,Radial Velocity,1,0,0,0
+HD 86081 b,HD 86081,3,Radial Velocity,1,0,0,0
+HD 86226 b,HD 86226,3,Radial Velocity,1,0,0,0
+HD 86264 b,HD 86264,3,Radial Velocity,1,0,0,0
+HD 87883 b,HD 87883,3,Radial Velocity,1,0,0,0
+HD 88133 b,HD 88133,3,Radial Velocity,1,0,0,0
+HD 89307 b,HD 89307,3,Radial Velocity,1,0,0,0
+HD 89744 b,HD 89744,3,Radial Velocity,1,0,0,0
+HD 90156 b,HD 90156,3,Radial Velocity,1,0,0,0
+HD 92788 b,HD 92788,3,Radial Velocity,1,0,0,0
+HD 93083 b,HD 93083,3,Radial Velocity,1,0,0,0
+HD 95086 b,HD 95086,3,Imaging,1,0,0,0
+HD 95089 b,HD 95089,3,Radial Velocity,1,0,0,0
+HD 95127 b,HD 95127,3,Radial Velocity,1,0,0,0
+HD 96063 b,HD 96063,3,Radial Velocity,1,0,0,0
+HD 96167 b,HD 96167,3,Radial Velocity,1,0,0,0
+HD 96127 b,HD 96127,3,Radial Velocity,1,0,0,0
+HD 97658 b,HD 97658,3,Radial Velocity,1,0,1,0
+HD 98219 b,HD 98219,3,Radial Velocity,1,0,0,0
+HD 98649 b,HD 98649,3,Radial Velocity,1,0,0,0
+HD 99109 b,HD 99109,3,Radial Velocity,1,0,0,0
+HD 99492 b,HD 99492,3,Radial Velocity,2,0,0,0
+HD 99492 c,HD 99492,3,Radial Velocity,2,0,0,0
+HD 99706 b,HD 99706,3,Radial Velocity,1,0,0,0
+HD 100546 b,HD 100546,3,Imaging,1,0,0,0
+HD 100655 b,HD 100655,3,Radial Velocity,1,0,0,0
+HD 100777 b,HD 100777,3,Radial Velocity,1,0,0,0
+HD 101930 b,HD 101930,3,Radial Velocity,1,0,0,0
+HD 102117 b,HD 102117,3,Radial Velocity,1,0,0,0
+HD 102195 b,HD 102195,3,Radial Velocity,1,0,0,0
+HD 102272 b,HD 102272,3,Radial Velocity,1,0,0,0
+HD 102365 b,HD 102365,3,Radial Velocity,1,0,0,0
+HD 102329 b,HD 102329,3,Radial Velocity,1,0,0,0
+HD 102956 b,HD 102956,3,Radial Velocity,1,0,0,0
+HD 103197 b,HD 103197,3,Radial Velocity,1,0,0,0
+HD 103720 b,HD 103720,3,Radial Velocity,1,0,0,0
+HD 103774 b,HD 103774,3,Radial Velocity,1,0,0,0
+HD 104067 b,HD 104067,3,Radial Velocity,1,0,0,0
+HD 104985 b,HD 104985,3,Radial Velocity,1,0,0,0
+HD 106252 b,HD 106252,3,Radial Velocity,1,0,0,0
+HD 106270 b,HD 106270,3,Radial Velocity,1,0,0,0
+HD 106515 A b,HD 106515 A,3,Radial Velocity,1,0,0,0
+HD 106906 b,HD 106906,3,Imaging,1,0,0,0
+HD 107148 b,HD 107148,3,Radial Velocity,1,0,0,0
+HD 108147 b,HD 108147,3,Radial Velocity,1,0,0,0
+HD 108341 b,HD 108341,3,Radial Velocity,1,0,0,0
+HD 108863 b,HD 108863,3,Radial Velocity,1,0,0,0
+HD 108874 b,HD 108874,3,Radial Velocity,2,0,0,0
+HD 108874 c,HD 108874,3,Radial Velocity,2,0,0,0
+HD 109246 b,HD 109246,3,Radial Velocity,1,0,0,0
+HD 109271 b,HD 109271,3,Radial Velocity,2,0,0,0
+HD 109271 c,HD 109271,3,Radial Velocity,2,0,0,0
+HD 109749 b,HD 109749,3,Radial Velocity,1,0,0,0
+HD 110014 b,HD 110014,3,Radial Velocity,1,0,0,0
+HD 111232 b,HD 111232,3,Radial Velocity,1,0,0,0
+HD 113337 b,HD 113337,3,Radial Velocity,1,0,0,0
+HD 113538 b,HD 113538,3,Radial Velocity,2,0,0,0
+HD 113538 c,HD 113538,3,Radial Velocity,2,0,0,0
+HD 114386 b,HD 114386,3,Radial Velocity,1,0,0,0
+HD 114613 b,HD 114613,3,Radial Velocity,1,0,0,0
+HD 114762 b,HD 114762,3,Radial Velocity,1,0,0,0
+HD 114783 b,HD 114783,3,Radial Velocity,1,0,0,0
+HD 114729 b,HD 114729,3,Radial Velocity,1,0,0,0
+HD 116029 b,HD 116029,3,Radial Velocity,1,0,0,0
+HD 117207 b,HD 117207,3,Radial Velocity,1,0,0,0
+HD 117618 b,HD 117618,3,Radial Velocity,1,0,0,0
+HD 118203 b,HD 118203,3,Radial Velocity,1,0,0,0
+HD 120084 b,HD 120084,3,Radial Velocity,1,0,0,0
+HD 121504 b,HD 121504,3,Radial Velocity,1,0,0,0
+HD 125612 b,HD 125612,3,Radial Velocity,3,0,0,0
+HD 125612 c,HD 125612,3,Radial Velocity,3,0,0,0
+HD 125612 d,HD 125612,3,Radial Velocity,3,0,0,0
+HD 125595 b,HD 125595,3,Radial Velocity,1,0,0,0
+HD 126614 b,HD 126614,3,Radial Velocity,1,0,0,0
+HD 128311 b,HD 128311,3,Radial Velocity,2,0,0,0
+HD 128311 c,HD 128311,3,Radial Velocity,2,0,0,0
+HD 129445 b,HD 129445,3,Radial Velocity,1,0,0,0
+HD 130322 b,HD 130322,3,Radial Velocity,1,0,0,0
+HD 131496 b,HD 131496,3,Radial Velocity,1,0,0,0
+HD 132406 b,HD 132406,3,Radial Velocity,1,0,0,0
+HD 132563 b,HD 132563,3,Radial Velocity,1,0,0,0
+HD 131664 b,HD 131664,3,Radial Velocity,1,0,0,0
+HD 134987 b,HD 134987,3,Radial Velocity,2,0,0,0
+HD 134987 c,HD 134987,3,Radial Velocity,2,0,0,0
+HD 136418 b,HD 136418,3,Radial Velocity,1,0,0,0
+HD 139357 b,HD 139357,3,Radial Velocity,1,0,0,0
+HD 137388 A b,HD 137388 A,3,Radial Velocity,1,0,0,0
+HD 141937 b,HD 141937,3,Radial Velocity,1,0,0,0
+HD 142245 b,HD 142245,3,Radial Velocity,1,0,0,0
+HD 142415 b,HD 142415,3,Radial Velocity,1,0,0,0
+HD 143361 b,HD 143361,3,Radial Velocity,1,0,0,0
+HD 145457 b,HD 145457,3,Radial Velocity,1,0,0,0
+HD 142022 A b,HD 142022 A,3,Radial Velocity,1,0,0,0
+HD 145377 b,HD 145377,3,Radial Velocity,1,0,0,0
+HD 145934 b,HD 145934,3,Radial Velocity,1,0,0,0
+HD 147018 b,HD 147018,3,Radial Velocity,2,0,0,0
+HD 147018 c,HD 147018,3,Radial Velocity,2,0,0,0
+HD 147513 b,HD 147513,3,Radial Velocity,1,0,0,0
+HD 148156 b,HD 148156,3,Radial Velocity,1,0,0,0
+HD 148427 b,HD 148427,3,Radial Velocity,1,0,0,0
+HD 149026 b,HD 149026,3,Radial Velocity,1,0,1,0
+HD 149143 b,HD 149143,3,Radial Velocity,1,0,0,0
+HD 150706 b,HD 150706,3,Radial Velocity,1,0,0,0
+HD 152079 b,HD 152079,3,Radial Velocity,1,0,0,0
+HD 152581 b,HD 152581,3,Radial Velocity,1,0,0,0
+HD 153950 b,HD 153950,3,Radial Velocity,1,0,0,0
+HD 154345 b,HD 154345,3,Radial Velocity,1,0,0,0
+HD 154672 b,HD 154672,3,Radial Velocity,1,0,0,0
+HD 154857 b,HD 154857,3,Radial Velocity,2,0,0,0
+HD 154857 c,HD 154857,3,Radial Velocity,2,0,0,0
+HD 155358 b,HD 155358,3,Radial Velocity,2,0,0,0
+HD 155358 c,HD 155358,3,Radial Velocity,2,0,0,0
+HD 156279 b,HD 156279,3,Radial Velocity,1,0,0,0
+HD 156411 b,HD 156411,3,Radial Velocity,1,0,0,0
+HD 156668 b,HD 156668,3,Radial Velocity,1,0,0,0
+HD 156846 b,HD 156846,3,Radial Velocity,1,0,0,0
+HD 158038 b,HD 158038,3,Radial Velocity,1,0,0,0
+HD 159243 b,HD 159243,3,Radial Velocity,2,0,0,0
+HD 159243 c,HD 159243,3,Radial Velocity,2,0,0,0
+HD 159868 b,HD 159868,3,Radial Velocity,2,0,0,0
+HD 159868 c,HD 159868,3,Radial Velocity,2,0,0,0
+HD 160691 b,HD 160691,3,Radial Velocity,4,0,0,0
+HD 160691 c,HD 160691,3,Radial Velocity,4,0,0,0
+HD 160691 d,HD 160691,3,Radial Velocity,4,0,0,0
+HD 160691 e,HD 160691,3,Radial Velocity,4,0,0,0
+HD 162020 b,HD 162020,3,Radial Velocity,1,0,0,0
+HD 163607 b,HD 163607,3,Radial Velocity,2,0,0,0
+HD 163607 c,HD 163607,3,Radial Velocity,2,0,0,0
+HD 164509 b,HD 164509,3,Radial Velocity,1,0,0,0
+HD 164922 b,HD 164922,3,Radial Velocity,1,0,0,0
+HD 164604 b,HD 164604,3,Radial Velocity,1,0,0,0
+HD 166724 b,HD 166724,3,Radial Velocity,1,0,0,0
+HD 167042 b,HD 167042,3,Radial Velocity,1,0,0,0
+HD 168443 b,HD 168443,3,Radial Velocity,2,0,0,0
+HD 168443 c,HD 168443,3,Radial Velocity,2,0,0,0
+HD 168746 b,HD 168746,3,Radial Velocity,1,0,0,0
+HD 169830 b,HD 169830,3,Radial Velocity,2,0,0,0
+HD 169830 c,HD 169830,3,Radial Velocity,2,0,0,0
+HD 170469 b,HD 170469,3,Radial Velocity,1,0,0,0
+HD 171028 b,HD 171028,3,Radial Velocity,1,0,0,0
+HD 171238 b,HD 171238,3,Radial Velocity,1,0,0,0
+HD 173416 b,HD 173416,3,Radial Velocity,1,0,0,0
+HD 175167 b,HD 175167,3,Radial Velocity,1,0,0,0
+HD 175541 b,HD 175541,3,Radial Velocity,1,0,0,0
+HD 177830 b,HD 177830,3,Radial Velocity,2,0,0,0
+HD 177830 c,HD 177830,3,Radial Velocity,2,0,0,0
+HD 178911 B b,HD 178911 B,3,Radial Velocity,1,0,0,0
+HD 179079 b,HD 179079,3,Radial Velocity,1,0,0,0
+HD 179949 b,HD 179949,3,Radial Velocity,1,0,0,0
+HD 180314 b,HD 180314,3,Radial Velocity,1,0,0,0
+HD 180902 b,HD 180902,3,Radial Velocity,1,0,0,0
+HD 181342 b,HD 181342,3,Radial Velocity,1,0,0,0
+HD 181433 b,HD 181433,3,Radial Velocity,3,0,0,0
+HD 181433 c,HD 181433,3,Radial Velocity,3,0,0,0
+HD 181433 d,HD 181433,3,Radial Velocity,3,0,0,0
+HD 181720 b,HD 181720,3,Radial Velocity,1,0,0,0
+HD 183263 b,HD 183263,3,Radial Velocity,2,0,0,0
+HD 183263 c,HD 183263,3,Radial Velocity,2,0,0,0
+HD 185269 b,HD 185269,3,Radial Velocity,1,0,0,0
+HD 187085 b,HD 187085,3,Radial Velocity,1,0,0,0
+HD 187123 b,HD 187123,3,Radial Velocity,2,0,0,0
+HD 187123 c,HD 187123,3,Radial Velocity,2,0,0,0
+HD 188015 b,HD 188015,3,Radial Velocity,1,0,0,0
+HD 189733 b,HD 189733,3,Radial Velocity,1,0,1,0
+HD 190360 b,HD 190360,3,Radial Velocity,2,0,0,0
+HD 190360 c,HD 190360,3,Radial Velocity,2,0,0,0
+HD 190647 b,HD 190647,3,Radial Velocity,1,0,0,0
+HD 190984 b,HD 190984,3,Radial Velocity,1,0,0,0
+HD 192263 b,HD 192263,3,Radial Velocity,1,0,0,0
+HD 192310 b,HD 192310,3,Radial Velocity,2,0,0,0
+HD 192310 c,HD 192310,3,Radial Velocity,2,0,0,0
+HD 192699 b,HD 192699,3,Radial Velocity,1,0,0,0
+HD 195019 b,HD 195019,3,Radial Velocity,1,0,0,0
+HD 196050 b,HD 196050,3,Radial Velocity,1,0,0,0
+HD 196067 b,HD 196067,3,Radial Velocity,1,0,0,0
+HD 196885 b,HD 196885,3,Radial Velocity,1,0,0,0
+HD 197037 b,HD 197037,3,Radial Velocity,1,0,0,0
+HD 200964 b,HD 200964,3,Radial Velocity,2,0,0,0
+HD 200964 c,HD 200964,3,Radial Velocity,2,0,0,0
+HD 202206 b,HD 202206,3,Radial Velocity,2,0,0,1
+HD 202206 c,HD 202206,3,Radial Velocity,2,0,0,1
+HD 203030 b,HD 203030,3,Imaging,1,0,0,0
+HD 204313 b,HD 204313,3,Radial Velocity,2,0,0,0
+HD 204313 d,HD 204313,3,Radial Velocity,2,0,0,0
+HD 204941 b,HD 204941,3,Radial Velocity,1,0,0,0
+HD 205739 b,HD 205739,3,Radial Velocity,1,0,0,0
+HD 206610 b,HD 206610,3,Radial Velocity,1,0,0,0
+HD 207832 b,HD 207832,3,Radial Velocity,2,0,0,0
+HD 207832 c,HD 207832,3,Radial Velocity,2,0,0,0
+HD 208527 b,HD 208527,3,Radial Velocity,1,0,0,0
+HD 208487 b,HD 208487,3,Radial Velocity,1,0,0,0
+HD 209458 b,HD 209458,3,Radial Velocity,1,0,1,0
+HD 210277 b,HD 210277,3,Radial Velocity,1,0,0,0
+HD 210702 b,HD 210702,3,Radial Velocity,1,0,0,0
+HD 212771 b,HD 212771,3,Radial Velocity,1,0,0,0
+HD 212301 b,HD 212301,3,Radial Velocity,1,0,0,0
+HD 213240 b,HD 213240,3,Radial Velocity,1,0,0,0
+HD 215497 b,HD 215497,3,Radial Velocity,2,0,0,0
+HD 215497 c,HD 215497,3,Radial Velocity,2,0,0,0
+HD 216435 b,HD 216435,3,Radial Velocity,1,0,0,0
+HD 216437 b,HD 216437,3,Radial Velocity,1,0,0,0
+HD 216536 b,HD 216536,3,Radial Velocity,1,0,0,0
+HD 216770 b,HD 216770,3,Radial Velocity,1,0,0,0
+HD 217107 b,HD 217107,3,Radial Velocity,2,0,0,0
+HD 217107 c,HD 217107,3,Radial Velocity,2,0,0,0
+HD 217786 b,HD 217786,3,Radial Velocity,1,0,0,0
+HD 218566 b,HD 218566,3,Radial Velocity,1,0,0,0
+HD 219077 b,HD 219077,3,Radial Velocity,1,0,0,0
+HD 219415 b,HD 219415,3,Radial Velocity,1,0,0,0
+HD 219828 b,HD 219828,3,Radial Velocity,1,0,0,0
+HD 220074 b,HD 220074,3,Radial Velocity,1,0,0,0
+HD 220689 b,HD 220689,3,Radial Velocity,1,0,0,0
+HD 220773 b,HD 220773,3,Radial Velocity,1,0,0,0
+HD 221287 b,HD 221287,3,Radial Velocity,1,0,0,0
+HD 222155 b,HD 222155,3,Radial Velocity,1,0,0,0
+HD 222582 b,HD 222582,3,Radial Velocity,1,0,0,0
+HD 224693 b,HD 224693,3,Radial Velocity,1,0,0,0
+HD 231701 b,HD 231701,3,Radial Velocity,1,0,0,0
+HD 233604 b,HD 233604,3,Radial Velocity,1,0,0,0
+HD 240210 b,HD 240210,3,Radial Velocity,1,0,0,0
+HD 240237 b,HD 240237,3,Radial Velocity,1,0,0,0
+HD 290327 b,HD 290327,3,Radial Velocity,1,0,0,0
+HD 285968 b,HD 285968,3,Radial Velocity,1,0,0,0
+HD 285507 b,HD 285507,3,Radial Velocity,1,0,0,0
+HD 330075 b,HD 330075,3,Radial Velocity,1,0,0,0
+HIP 5158 b,HIP 5158,3,Radial Velocity,2,0,0,0
+HIP 5158 c,HIP 5158,3,Radial Velocity,2,0,0,0
+HIP 12961 b,HIP 12961,3,Radial Velocity,1,0,0,0
+HIP 14810 b,HIP 14810,3,Radial Velocity,3,0,0,0
+HIP 14810 c,HIP 14810,3,Radial Velocity,3,0,0,0
+HIP 14810 d,HIP 14810,3,Radial Velocity,3,0,0,0
+HIP 57050 b,HIP 57050,3,Radial Velocity,1,0,0,0
+HIP 57274 b,HIP 57274,3,Radial Velocity,3,0,0,0
+HIP 57274 c,HIP 57274,3,Radial Velocity,3,0,0,0
+HIP 57274 d,HIP 57274,3,Radial Velocity,3,0,0,0
+HIP 63510 c,HIP 63510,3,Imaging,1,0,0,1
+HIP 63242 b,HIP 63242,3,Radial Velocity,1,0,0,0
+HIP 67851 b,HIP 67851,3,Radial Velocity,2,0,0,0
+HIP 67851 c,HIP 67851,3,Radial Velocity,2,0,0,0
+HIP 70849 b,HIP 70849,3,Radial Velocity,1,0,0,0
+HIP 75458 b,HIP 75458,3,Radial Velocity,1,0,0,0
+HIP 78530 b,HIP 78530,3,Imaging,1,0,0,0
+HIP 79431 b,HIP 79431,3,Radial Velocity,1,0,0,0
+HIP 91258 b,HIP 91258,3,Radial Velocity,1,0,0,0
+HIP 97233 b,HIP 97233,3,Radial Velocity,1,0,0,0
+HIP 105854 b,HIP 105854,3,Radial Velocity,1,0,0,0
+HIP 116454 b,HIP 116454,3,Transit,1,0,1,0
+HR 810 b,HR 810,3,Radial Velocity,1,0,0,0
+HR 8799 b,HR 8799,3,Imaging,4,0,0,0
+HR 8799 c,HR 8799,3,Imaging,4,0,0,0
+HR 8799 d,HR 8799,3,Imaging,4,0,0,0
+HR 8799 e,HR 8799,3,Imaging,4,0,0,0
+K2-3 b,K2-3,3,Transit,3,0,1,0
+K2-3 c,K2-3,3,Transit,3,0,1,0
+K2-3 d,K2-3,3,Transit,3,0,1,0
+KELT-1 b,KELT-1,3,Transit,1,0,1,0
+KELT-2 A b,KELT-2 A,3,Transit,1,0,1,0
+KELT-3 b,KELT-3,3,Transit,1,0,1,0
+KELT-6 b,KELT-6,3,Transit,1,0,1,0
+TrES-2 b,TrES-2,3,Transit,1,0,1,0
+HAT-P-7 b,HAT-P-7,3,Transit,1,0,1,0
+HAT-P-11 b,HAT-P-11,3,Transit,1,0,1,0
+Kepler-4 b,Kepler-4,3,Transit,1,0,1,0
+Kepler-5 b,Kepler-5,3,Transit,1,0,1,0
+Kepler-6 b,Kepler-6,3,Transit,1,0,1,0
+Kepler-7 b,Kepler-7,3,Transit,1,0,1,0
+Kepler-8 b,Kepler-8,3,Transit,1,0,1,0
+Kepler-9 b,Kepler-9,3,Transit,3,0,1,0
+Kepler-9 c,Kepler-9,3,Transit,3,0,1,0
+Kepler-9 d,Kepler-9,3,Transit,3,0,1,0
+Kepler-10 b,Kepler-10,3,Transit,2,0,1,0
+Kepler-10 c,Kepler-10,3,Transit,2,0,1,0
+Kepler-11 b,Kepler-11,3,Transit,6,0,1,0
+Kepler-11 c,Kepler-11,3,Transit,6,0,1,0
+Kepler-11 d,Kepler-11,3,Transit,6,0,1,0
+Kepler-11 e,Kepler-11,3,Transit,6,0,1,0
+Kepler-11 f,Kepler-11,3,Transit,6,0,1,0
+Kepler-11 g,Kepler-11,3,Transit,6,0,1,0
+Kepler-12 b,Kepler-12,3,Transit,1,0,1,0
+KOI-13 b,KOI-13,3,Transit,1,0,1,0
+Kepler-14 b,Kepler-14,3,Transit,1,0,1,0
+Kepler-15 b,Kepler-15,3,Transit,1,0,1,0
+Kepler-16 b,Kepler-16,3,Transit,1,0,1,1
+Kepler-17 b,Kepler-17,3,Transit,1,0,1,0
+Kepler-18 b,Kepler-18,3,Transit,3,0,1,0
+Kepler-18 c,Kepler-18,3,Transit,3,0,1,0
+Kepler-18 d,Kepler-18,3,Transit,3,0,1,0
+Kepler-19 b,Kepler-19,3,Transit,2,0,1,0
+Kepler-19 c,Kepler-19,3,Transit Timing Variations,2,0,0,0
+Kepler-20 b,Kepler-20,3,Transit,5,0,1,0
+Kepler-20 c,Kepler-20,3,Transit,5,0,1,0
+Kepler-20 d,Kepler-20,3,Transit,5,0,1,0
+Kepler-20 e,Kepler-20,3,Transit,5,0,1,0
+Kepler-20 f,Kepler-20,3,Transit,5,0,1,0
+Kepler-21 b,Kepler-21,3,Transit,1,0,1,0
+Kepler-22 b,Kepler-22,3,Transit,1,0,1,0
+Kepler-23 b,Kepler-23,3,Transit,3,0,1,0
+Kepler-23 c,Kepler-23,3,Transit,3,0,1,0
+Kepler-23 d,Kepler-23,3,Transit,3,0,1,0
+Kepler-24 b,Kepler-24,3,Transit,4,0,1,0
+Kepler-24 c,Kepler-24,3,Transit,4,0,1,0
+Kepler-24 d,Kepler-24,3,Transit,4,0,1,0
+Kepler-24 e,Kepler-24,3,Transit,4,0,1,0
+Kepler-25 b,Kepler-25,3,Transit,3,0,1,0
+Kepler-25 c,Kepler-25,3,Transit,3,0,1,0
+Kepler-25 d,Kepler-25,3,Radial Velocity,3,0,0,0
+Kepler-26 b,Kepler-26,3,Transit,4,0,1,0
+Kepler-26 c,Kepler-26,3,Transit,4,0,1,0
+Kepler-26 d,Kepler-26,3,Transit,4,0,1,0
+Kepler-26 e,Kepler-26,3,Transit,4,0,1,0
+Kepler-27 b,Kepler-27,3,Transit,2,0,1,0
+Kepler-27 c,Kepler-27,3,Transit,2,0,1,0
+Kepler-28 b,Kepler-28,3,Transit,2,0,1,0
+Kepler-28 c,Kepler-28,3,Transit,2,0,1,0
+Kepler-29 b,Kepler-29,3,Transit,2,0,1,0
+Kepler-29 c,Kepler-29,3,Transit,2,0,1,0
+Kepler-30 b,Kepler-30,3,Transit,3,0,1,0
+Kepler-30 c,Kepler-30,3,Transit,3,0,1,0
+Kepler-30 d,Kepler-30,3,Transit,3,0,1,0
+Kepler-31 b,Kepler-31,3,Transit,3,0,1,0
+Kepler-31 c,Kepler-31,3,Transit,3,0,1,0
+Kepler-31 d,Kepler-31,3,Transit,3,0,1,0
+Kepler-32 b,Kepler-32,3,Transit,5,0,1,0
+Kepler-32 c,Kepler-32,3,Transit,5,0,1,0
+Kepler-32 d,Kepler-32,3,Transit,5,0,1,0
+Kepler-32 e,Kepler-32,3,Transit,5,0,1,0
+Kepler-32 f,Kepler-32,3,Transit,5,0,1,0
+Kepler-33 b,Kepler-33,3,Transit,5,0,1,0
+Kepler-33 c,Kepler-33,3,Transit,5,0,1,0
+Kepler-33 d,Kepler-33,3,Transit,5,0,1,0
+Kepler-33 e,Kepler-33,3,Transit,5,0,1,0
+Kepler-33 f,Kepler-33,3,Transit,5,0,1,0
+Kepler-34 b,Kepler-34,3,Transit,1,0,1,1
+Kepler-35 b,Kepler-35,3,Transit,1,0,1,1
+Kepler-36 b,Kepler-36,3,Transit,2,0,1,0
+Kepler-36 c,Kepler-36,3,Transit,2,0,1,0
+Kepler-37 b,Kepler-37,3,Transit,4,0,1,0
+Kepler-37 c,Kepler-37,3,Transit,4,0,1,0
+Kepler-37 d,Kepler-37,3,Transit,4,0,1,0
+Kepler-37 e,Kepler-37,3,Transit Timing Variations,4,0,1,0
+Kepler-38 b,Kepler-38,3,Transit,1,0,1,1
+Kepler-39 b,Kepler-39,3,Transit,1,0,1,0
+Kepler-40 b,Kepler-40,3,Transit,1,0,1,0
+Kepler-41 b,Kepler-41,3,Transit,1,0,1,0
+Kepler-42 b,Kepler-42,3,Transit,3,0,1,0
+Kepler-42 c,Kepler-42,3,Transit,3,0,1,0
+Kepler-42 d,Kepler-42,3,Transit,3,0,1,0
+Kepler-43 b,Kepler-43,3,Transit,1,0,1,0
+Kepler-44 b,Kepler-44,3,Transit,1,0,1,0
+Kepler-45 b,Kepler-45,3,Transit,1,0,1,0
+Kepler-46 b,Kepler-46,3,Transit,3,0,1,0
+Kepler-46 c,Kepler-46,3,Transit Timing Variations,3,0,1,0
+Kepler-46 d,Kepler-46,3,Transit,3,0,1,0
+Kepler-47 b,Kepler-47,3,Transit,2,0,1,1
+Kepler-47 c,Kepler-47,3,Transit,2,0,1,1
+Kepler-48 b,Kepler-48,3,Transit,4,0,1,0
+Kepler-48 c,Kepler-48,3,Transit,4,0,1,0
+Kepler-48 d,Kepler-48,3,Transit,4,0,1,0
+Kepler-48 e,Kepler-48,3,Radial Velocity,4,0,0,0
+Kepler-49 b,Kepler-49,3,Transit,4,0,1,0
+Kepler-49 c,Kepler-49,3,Transit,4,0,1,0
+Kepler-49 d,Kepler-49,3,Transit,4,0,1,0
+Kepler-49 e,Kepler-49,3,Transit,4,0,1,0
+Kepler-50 b,Kepler-50,3,Transit,2,0,1,0
+Kepler-50 c,Kepler-50,3,Transit,2,0,1,0
+Kepler-51 b,Kepler-51,3,Transit,3,0,1,0
+Kepler-51 c,Kepler-51,3,Transit,3,0,1,0
+KOI-620.02,Kepler-51,3,Transit,3,0,1,0
+Kepler-52 b,Kepler-52,3,Transit,3,0,1,0
+Kepler-52 c,Kepler-52,3,Transit,3,0,1,0
+Kepler-52 d,Kepler-52,3,Transit,3,0,1,0
+Kepler-53 b,Kepler-53,3,Transit,3,0,1,0
+Kepler-53 c,Kepler-53,3,Transit,3,0,1,0
+Kepler-53 d,Kepler-53,3,Transit,3,0,1,0
+Kepler-54 b,Kepler-54,3,Transit,3,0,1,0
+Kepler-54 c,Kepler-54,3,Transit,3,0,1,0
+Kepler-54 d,Kepler-54,3,Transit,3,0,1,0
+Kepler-55 b,Kepler-55,3,Transit,5,0,1,0
+Kepler-55 c,Kepler-55,3,Transit,5,0,1,0
+Kepler-55 d,Kepler-55,3,Transit,5,0,1,0
+Kepler-55 e,Kepler-55,3,Transit,5,0,1,0
+Kepler-55 f,Kepler-55,3,Transit,5,0,1,0
+Kepler-56 b,Kepler-56,3,Transit,2,0,1,0
+Kepler-56 c,Kepler-56,3,Transit,2,0,1,0
+Kepler-57 b,Kepler-57,3,Transit,2,0,1,0
+Kepler-57 c,Kepler-57,3,Transit,2,0,1,0
+Kepler-58 b,Kepler-58,3,Transit,3,0,1,0
+Kepler-58 c,Kepler-58,3,Transit,3,0,1,0
+Kepler-58 d,Kepler-58,3,Transit,3,0,1,0
+Kepler-59 b,Kepler-59,3,Transit,2,0,1,0
+Kepler-59 c,Kepler-59,3,Transit,2,0,1,0
+Kepler-60 b,Kepler-60,3,Transit,3,0,1,0
+Kepler-60 c,Kepler-60,3,Transit,3,0,1,0
+Kepler-60 d,Kepler-60,3,Transit,3,0,1,0
+Kepler-61 b,Kepler-61,3,Transit,1,0,1,0
+Kepler-62 b,Kepler-62,3,Transit,5,0,1,0
+Kepler-62 c,Kepler-62,3,Transit,5,0,1,0
+Kepler-62 d,Kepler-62,3,Transit,5,0,1,0
+Kepler-62 e,Kepler-62,3,Transit,5,0,1,0
+Kepler-62 f,Kepler-62,3,Transit,5,0,1,0
+Kepler-63 b,Kepler-63,3,Transit,1,0,1,0
+PH1 b,KOI-6464,3,Transit,1,0,1,1
+Kepler-65 b,Kepler-65,3,Transit,3,0,1,0
+Kepler-65 c,Kepler-65,3,Transit,3,0,1,0
+Kepler-65 d,Kepler-65,3,Transit,3,0,1,0
+Kepler-66 b,Kepler-66,3,Transit,1,0,1,0
+Kepler-67 b,Kepler-67,3,Transit,1,0,1,0
+Kepler-68 b,Kepler-68,3,Transit,3,0,1,0
+Kepler-68 c,Kepler-68,3,Transit,3,0,1,0
+Kepler-68 d,Kepler-68,3,Radial Velocity,3,0,0,0
+Kepler-69 b,Kepler-69,3,Transit,2,0,1,0
+Kepler-69 c,Kepler-69,3,Transit,2,0,1,0
+KOI-55 b,KOI-55,3,Orbital Brightness Modulation,2,0,0,0
+KOI-55 c,KOI-55,3,Orbital Brightness Modulation,2,0,0,0
+KOI-217 b,KOI-217,3,Transit,1,0,1,0
+Kepler-74 b,Kepler-74,3,Transit,1,0,1,0
+Kepler-75 b,Kepler-75,3,Transit,1,0,1,0
+Kepler-76 b,Kepler-76,3,Orbital Brightness Modulation,1,0,1,0
+Kepler-77 b,Kepler-77,3,Transit,1,0,1,0
+Kepler-78 b,Kepler-78,3,Transit,1,0,1,0
+Kepler-79 b,Kepler-79,3,Transit,4,0,1,0
+Kepler-79 c,Kepler-79,3,Transit,4,0,1,0
+Kepler-79 d,Kepler-79,3,Transit,4,0,1,0
+Kepler-79 e,Kepler-79,3,Transit,4,0,1,0
+Kepler-80 b,Kepler-80,3,Transit,4,0,1,0
+Kepler-80 c,Kepler-80,3,Transit,4,0,1,0
+Kepler-80 d,Kepler-80,3,Transit,4,0,1,0
+Kepler-80 e,Kepler-80,3,Transit,4,0,1,0
+Kepler-81 b,Kepler-81,3,Transit,3,0,1,0
+Kepler-81 c,Kepler-81,3,Transit,3,0,1,0
+Kepler-81 d,Kepler-81,3,Transit,3,0,1,0
+Kepler-82 b,Kepler-82,3,Transit,4,0,1,0
+Kepler-82 c,Kepler-82,3,Transit,4,0,1,0
+Kepler-82 d,Kepler-82,3,Transit,4,0,1,0
+Kepler-82 e,Kepler-82,3,Transit,4,0,1,0
+Kepler-83 b,Kepler-83,3,Transit,3,0,1,0
+Kepler-83 c,Kepler-83,3,Transit,3,0,1,0
+Kepler-83 d,Kepler-83,3,Transit,3,0,1,0
+Kepler-84 b,Kepler-84,3,Transit,5,0,1,0
+Kepler-84 c,Kepler-84,3,Transit,5,0,1,0
+Kepler-84 d,Kepler-84,3,Transit,5,0,1,0
+Kepler-84 e,Kepler-84,3,Transit,5,0,1,0
+Kepler-84 f,Kepler-84,3,Transit,5,0,1,0
+Kepler-85 b,Kepler-85,3,Transit,4,0,1,0
+Kepler-85 c,Kepler-85,3,Transit,4,0,1,0
+Kepler-85 d,Kepler-85,3,Transit,4,0,1,0
+Kepler-85 e,Kepler-85,3,Transit,4,0,1,0
+PH2 b,PH2,3,Transit,1,0,1,0
+Kepler-87 b,Kepler-87,3,Transit,2,0,1,0
+Kepler-87 c,Kepler-87,3,Transit,2,0,1,0
+KOI-142 b,KOI-142,3,Transit,2,0,1,0
+KOI-142 c,KOI-142,3,Transit Timing Variations,2,0,0,0
+KOI-94 b,KOI-94,3,Transit,4,0,1,0
+KOI-94 c,KOI-94,3,Transit,4,0,1,0
+KOI-94 d,KOI-94,3,Transit,4,0,1,0
+KOI-94 e,KOI-94,3,Transit,4,0,1,0
+KOI-351 b,KOI-351,3,Transit,7,0,1,0
+KOI-351 c,KOI-351,3,Transit,7,0,1,0
+KOI-351 d,KOI-351,3,Transit,7,0,1,0
+KOI-351 e,KOI-351,3,Transit,7,0,1,0
+KOI-351 f,KOI-351,3,Transit,7,0,1,0
+KOI-351 g,KOI-351,3,Transit,7,0,1,0
+KOI-351 h,KOI-351,3,Transit,7,0,1,0
+Kepler-91 b,Kepler-91,3,Transit,1,0,1,0
+Kepler-92 b,Kepler-92,3,Transit,2,0,1,0
+Kepler-92 c,Kepler-92,3,Transit,2,0,1,0
+Kepler-93 b,Kepler-93,3,Transit,2,0,1,0
+Kepler-93 c,Kepler-93,3,Radial Velocity,2,0,0,0
+Kepler-94 b,Kepler-94,3,Transit,2,0,1,0
+Kepler-94 c,Kepler-94,3,Radial Velocity,2,0,0,0
+Kepler-95 b,Kepler-95,3,Transit,1,0,1,0
+Kepler-96 b,Kepler-96,3,Transit,1,0,1,0
+Kepler-97 b,Kepler-97,3,Transit,2,0,1,0
+Kepler-97 c,Kepler-97,3,Radial Velocity,2,0,0,0
+Kepler-98 b,Kepler-98,3,Transit,1,0,1,0
+Kepler-99 b,Kepler-99,3,Transit,1,0,1,0
+Kepler-100 b,Kepler-100,3,Transit,3,0,1,0
+Kepler-100 c,Kepler-100,3,Transit,3,0,1,0
+Kepler-100 d,Kepler-100,3,Transit,3,0,1,0
+Kepler-101 b,Kepler-101,3,Transit,2,0,1,0
+Kepler-101 c,Kepler-101,3,Transit,2,0,1,0
+Kepler-102 b,Kepler-102,3,Transit,5,0,1,0
+Kepler-102 c,Kepler-102,3,Transit,5,0,1,0
+Kepler-102 d,Kepler-102,3,Transit,5,0,1,0
+Kepler-102 e,Kepler-102,3,Transit,5,0,1,0
+Kepler-102 f,Kepler-102,3,Transit,5,0,1,0
+Kepler-103 b,Kepler-103,3,Transit,2,0,1,0
+Kepler-103 c,Kepler-103,3,Transit,2,0,1,0
+Kepler-104 b,Kepler-104,3,Transit,3,0,1,0
+Kepler-104 c,Kepler-104,3,Transit,3,0,1,0
+Kepler-104 d,Kepler-104,3,Transit,3,0,1,0
+Kepler-105 b,Kepler-105,3,Transit,2,0,1,0
+Kepler-105 c,Kepler-105,3,Transit,2,0,1,0
+Kepler-106 b,Kepler-106,3,Transit,4,0,1,0
+Kepler-106 c,Kepler-106,3,Transit,4,0,1,0
+Kepler-106 d,Kepler-106,3,Transit,4,0,1,0
+Kepler-106 e,Kepler-106,3,Transit,4,0,1,0
+Kepler-107 b,Kepler-107,3,Transit,4,0,1,0
+Kepler-107 c,Kepler-107,3,Transit,4,0,1,0
+Kepler-107 d,Kepler-107,3,Transit,4,0,1,0
+Kepler-107 e,Kepler-107,3,Transit,4,0,1,0
+Kepler-108 b,Kepler-108,3,Transit,2,0,1,0
+Kepler-108 c,Kepler-108,3,Transit,2,0,1,0
+Kepler-109 b,Kepler-109,3,Transit,2,0,1,0
+Kepler-109 c,Kepler-109,3,Transit,2,0,1,0
+Kepler-110 b,Kepler-110,3,Transit,2,0,1,0
+Kepler-110 c,Kepler-110,3,Transit,2,0,1,0
+Kepler-111 b,Kepler-111,3,Transit,2,0,1,0
+Kepler-111 c,Kepler-111,3,Transit,2,0,1,0
+Kepler-112 b,Kepler-112,3,Transit,2,0,1,0
+Kepler-112 c,Kepler-112,3,Transit,2,0,1,0
+Kepler-113 b,Kepler-113,3,Transit,2,0,1,0
+Kepler-113 c,Kepler-113,3,Transit,2,0,1,0
+Kepler-114 b,Kepler-114,3,Transit,3,0,1,0
+Kepler-114 c,Kepler-114,3,Transit,3,0,1,0
+Kepler-114 d,Kepler-114,3,Transit,3,0,1,0
+Kepler-115 b,Kepler-115,3,Transit,2,0,1,0
+Kepler-115 c,Kepler-115,3,Transit,2,0,1,0
+Kepler-116 b,Kepler-116,3,Transit,2,0,1,0
+Kepler-116 c,Kepler-116,3,Transit,2,0,1,0
+Kepler-117 b,Kepler-117,3,Transit,2,0,1,0
+Kepler-117 c,Kepler-117,3,Transit,2,0,1,0
+Kepler-118 b,Kepler-118,3,Transit,2,0,1,0
+Kepler-118 c,Kepler-118,3,Transit,2,0,1,0
+Kepler-119 b,Kepler-119,3,Transit,2,0,1,0
+Kepler-119 c,Kepler-119,3,Transit,2,0,1,0
+Kepler-120 b,Kepler-120,3,Transit,2,0,1,0
+Kepler-120 c,Kepler-120,3,Transit,2,0,1,0
+Kepler-121 b,Kepler-121,3,Transit,2,0,1,0
+Kepler-121 c,Kepler-121,3,Transit,2,0,1,0
+Kepler-122 b,Kepler-122,3,Transit,5,0,1,0
+Kepler-122 c,Kepler-122,3,Transit,5,0,1,0
+Kepler-122 d,Kepler-122,3,Transit,5,0,1,0
+Kepler-122 e,Kepler-122,3,Transit,5,0,1,0
+Kepler-122 f,Kepler-122,3,Transit Timing Variations,5,0,1,0
+Kepler-123 b,Kepler-123,3,Transit,2,0,1,0
+Kepler-123 c,Kepler-123,3,Transit,2,0,1,0
+Kepler-124 b,Kepler-124,3,Transit,3,0,1,0
+Kepler-124 c,Kepler-124,3,Transit,3,0,1,0
+Kepler-124 d,Kepler-124,3,Transit,3,0,1,0
+Kepler-125 b,Kepler-125,3,Transit,2,0,1,0
+Kepler-125 c,Kepler-125,3,Transit,2,0,1,0
+Kepler-126 b,Kepler-126,3,Transit,3,0,1,0
+Kepler-126 c,Kepler-126,3,Transit,3,0,1,0
+Kepler-126 d,Kepler-126,3,Transit,3,0,1,0
+Kepler-127 b,Kepler-127,3,Transit,3,0,1,0
+Kepler-127 c,Kepler-127,3,Transit,3,0,1,0
+Kepler-127 d,Kepler-127,3,Transit,3,0,1,0
+Kepler-128 b,Kepler-128,3,Transit,2,0,1,0
+Kepler-128 c,Kepler-128,3,Transit,2,0,1,0
+Kepler-129 b,Kepler-129,3,Transit,2,0,1,0
+Kepler-129 c,Kepler-129,3,Transit,2,0,1,0
+Kepler-130 b,Kepler-130,3,Transit,3,0,1,0
+Kepler-130 c,Kepler-130,3,Transit,3,0,1,0
+Kepler-130 d,Kepler-130,3,Transit,3,0,1,0
+Kepler-131 b,Kepler-131,3,Transit,2,0,1,0
+Kepler-131 c,Kepler-131,3,Transit,2,0,1,0
+Kepler-132 b,Kepler-132,3,Transit,3,0,1,0
+Kepler-132 c,Kepler-132,3,Transit,3,0,1,0
+Kepler-132 d,Kepler-132,3,Transit,3,0,1,0
+Kepler-133 b,Kepler-133,3,Transit,2,0,1,0
+Kepler-133 c,Kepler-133,3,Transit,2,0,1,0
+Kepler-134 b,Kepler-134,3,Transit,2,0,1,0
+Kepler-134 c,Kepler-134,3,Transit,2,0,1,0
+Kepler-135 b,Kepler-135,3,Transit,2,0,1,0
+Kepler-135 c,Kepler-135,3,Transit,2,0,1,0
+Kepler-136 b,Kepler-136,3,Transit,2,0,1,0
+Kepler-136 c,Kepler-136,3,Transit,2,0,1,0
+Kepler-137 b,Kepler-137,3,Transit,2,0,1,0
+Kepler-137 c,Kepler-137,3,Transit,2,0,1,0
+Kepler-138 b,Kepler-138,3,Transit,3,0,1,0
+Kepler-138 c,Kepler-138,3,Transit,3,0,1,0
+Kepler-138 d,Kepler-138,3,Transit,3,0,1,0
+Kepler-139 b,Kepler-139,3,Transit,2,0,1,0
+Kepler-139 c,Kepler-139,3,Transit,2,0,1,0
+Kepler-140 b,Kepler-140,3,Transit,2,0,1,0
+Kepler-140 c,Kepler-140,3,Transit,2,0,1,0
+Kepler-141 b,Kepler-141,3,Transit,2,0,1,0
+Kepler-141 c,Kepler-141,3,Transit,2,0,1,0
+Kepler-142 b,Kepler-142,3,Transit,3,0,1,0
+Kepler-142 c,Kepler-142,3,Transit,3,0,1,0
+Kepler-142 d,Kepler-142,3,Transit,3,0,1,0
+Kepler-143 b,Kepler-143,3,Transit,2,0,1,0
+Kepler-143 c,Kepler-143,3,Transit,2,0,1,0
+Kepler-144 b,Kepler-144,3,Transit,2,0,1,0
+Kepler-144 c,Kepler-144,3,Transit,2,0,1,0
+Kepler-145 b,Kepler-145,3,Transit,2,0,1,0
+Kepler-145 c,Kepler-145,3,Transit,2,0,1,0
+Kepler-146 b,Kepler-146,3,Transit,2,0,1,0
+Kepler-146 c,Kepler-146,3,Transit,2,0,1,0
+Kepler-147 b,Kepler-147,3,Transit,2,0,1,0
+Kepler-147 c,Kepler-147,3,Transit,2,0,1,0
+Kepler-148 b,Kepler-148,3,Transit,2,0,1,0
+Kepler-148 c,Kepler-148,3,Transit,2,0,1,0
+Kepler-149 b,Kepler-149,3,Transit,3,0,1,0
+Kepler-149 c,Kepler-149,3,Transit,3,0,1,0
+Kepler-149 d,Kepler-149,3,Transit,3,0,1,0
+Kepler-150 b,Kepler-150,3,Transit,4,0,1,0
+Kepler-150 c,Kepler-150,3,Transit,4,0,1,0
+Kepler-150 d,Kepler-150,3,Transit,4,0,1,0
+Kepler-150 e,Kepler-150,3,Transit,4,0,1,0
+Kepler-151 b,Kepler-151,3,Transit,2,0,1,0
+Kepler-151 c,Kepler-151,3,Transit,2,0,1,0
+Kepler-152 b,Kepler-152,3,Transit,2,0,1,0
+Kepler-152 c,Kepler-152,3,Transit,2,0,1,0
+Kepler-153 b,Kepler-153,3,Transit,2,0,1,0
+Kepler-153 c,Kepler-153,3,Transit,2,0,1,0
+Kepler-154 b,Kepler-154,3,Transit,2,0,1,0
+Kepler-154 c,Kepler-154,3,Transit,2,0,1,0
+Kepler-155 b,Kepler-155,3,Transit,2,0,1,0
+Kepler-155 c,Kepler-155,3,Transit,2,0,1,0
+Kepler-156 b,Kepler-156,3,Transit,2,0,1,0
+Kepler-156 c,Kepler-156,3,Transit,2,0,1,0
+Kepler-157 b,Kepler-157,3,Transit,2,0,1,0
+Kepler-157 c,Kepler-157,3,Transit,2,0,1,0
+Kepler-158 b,Kepler-158,3,Transit,2,0,1,0
+Kepler-158 c,Kepler-158,3,Transit,2,0,1,0
+Kepler-159 b,Kepler-159,3,Transit,2,0,1,0
+Kepler-159 c,Kepler-159,3,Transit,2,0,1,0
+Kepler-160 b,Kepler-160,3,Transit,2,0,1,0
+Kepler-160 c,Kepler-160,3,Transit,2,0,1,0
+Kepler-161 b,Kepler-161,3,Transit,2,0,1,0
+Kepler-161 c,Kepler-161,3,Transit,2,0,1,0
+Kepler-162 b,Kepler-162,3,Transit,2,0,1,0
+Kepler-162 c,Kepler-162,3,Transit,2,0,1,0
+Kepler-163 b,Kepler-163,3,Transit,2,0,1,0
+Kepler-163 c,Kepler-163,3,Transit,2,0,1,0
+Kepler-164 b,Kepler-164,3,Transit,3,0,1,0
+Kepler-164 c,Kepler-164,3,Transit,3,0,1,0
+Kepler-164 d,Kepler-164,3,Transit,3,0,1,0
+Kepler-165 b,Kepler-165,3,Transit,2,0,1,0
+Kepler-165 c,Kepler-165,3,Transit,2,0,1,0
+Kepler-166 b,Kepler-166,3,Transit,2,0,1,0
+Kepler-166 c,Kepler-166,3,Transit,2,0,1,0
+Kepler-167 b,Kepler-167,3,Transit,2,0,1,0
+Kepler-167 c,Kepler-167,3,Transit,2,0,1,0
+Kepler-168 b,Kepler-168,3,Transit,2,0,1,0
+Kepler-168 c,Kepler-168,3,Transit,2,0,1,0
+Kepler-169 b,Kepler-169,3,Transit,5,0,1,0
+Kepler-169 c,Kepler-169,3,Transit,5,0,1,0
+Kepler-169 d,Kepler-169,3,Transit,5,0,1,0
+Kepler-169 e,Kepler-169,3,Transit,5,0,1,0
+Kepler-169 f,Kepler-169,3,Transit,5,0,1,0
+Kepler-170 b,Kepler-170,3,Transit,2,0,1,0
+Kepler-170 c,Kepler-170,3,Transit,2,0,1,0
+Kepler-171 b,Kepler-171,3,Transit,3,0,1,0
+Kepler-171 c,Kepler-171,3,Transit,3,0,1,0
+Kepler-171 d,Kepler-171,3,Transit,3,0,1,0
+Kepler-172 b,Kepler-172,3,Transit,4,0,1,0
+Kepler-172 c,Kepler-172,3,Transit,4,0,1,0
+Kepler-172 d,Kepler-172,3,Transit,4,0,1,0
+Kepler-172 e,Kepler-172,3,Transit,4,0,1,0
+Kepler-173 b,Kepler-173,3,Transit,2,0,1,0
+Kepler-173 c,Kepler-173,3,Transit,2,0,1,0
+Kepler-174 b,Kepler-174,3,Transit,3,0,1,0
+Kepler-174 c,Kepler-174,3,Transit,3,0,1,0
+Kepler-174 d,Kepler-174,3,Transit,3,0,1,0
+Kepler-175 b,Kepler-175,3,Transit,2,0,1,0
+Kepler-175 c,Kepler-175,3,Transit,2,0,1,0
+Kepler-176 b,Kepler-176,3,Transit,3,0,1,0
+Kepler-176 c,Kepler-176,3,Transit,3,0,1,0
+Kepler-176 d,Kepler-176,3,Transit,3,0,1,0
+Kepler-177 b,Kepler-177,3,Transit,2,0,1,0
+Kepler-177 c,Kepler-177,3,Transit,2,0,1,0
+Kepler-178 b,Kepler-178,3,Transit,3,0,1,0
+Kepler-178 c,Kepler-178,3,Transit,3,0,1,0
+Kepler-178 d,Kepler-178,3,Transit,3,0,1,0
+Kepler-179 b,Kepler-179,3,Transit,2,0,1,0
+Kepler-179 c,Kepler-179,3,Transit,2,0,1,0
+Kepler-180 b,Kepler-180,3,Transit,2,0,1,0
+Kepler-180 c,Kepler-180,3,Transit,2,0,1,0
+Kepler-181 b,Kepler-181,3,Transit,2,0,1,0
+Kepler-181 c,Kepler-181,3,Transit,2,0,1,0
+Kepler-182 b,Kepler-182,3,Transit,2,0,1,0
+Kepler-182 c,Kepler-182,3,Transit,2,0,1,0
+Kepler-183 b,Kepler-183,3,Transit,2,0,1,0
+Kepler-183 c,Kepler-183,3,Transit,2,0,1,0
+Kepler-184 b,Kepler-184,3,Transit,3,0,1,0
+Kepler-184 c,Kepler-184,3,Transit,3,0,1,0
+Kepler-184 d,Kepler-184,3,Transit,3,0,1,0
+Kepler-185 b,Kepler-185,3,Transit,2,0,1,0
+Kepler-185 c,Kepler-185,3,Transit,2,0,1,0
+Kepler-186 b,Kepler-186,3,Transit,5,0,1,0
+Kepler-186 c,Kepler-186,3,Transit,5,0,1,0
+Kepler-186 d,Kepler-186,3,Transit,5,0,1,0
+Kepler-186 e,Kepler-186,3,Transit,5,0,1,0
+Kepler-186 f,Kepler-186,3,Transit,5,0,1,0
+Kepler-187 b,Kepler-187,3,Transit,2,0,1,0
+Kepler-187 c,Kepler-187,3,Transit,2,0,1,0
+Kepler-188 b,Kepler-188,3,Transit,2,0,1,0
+Kepler-188 c,Kepler-188,3,Transit,2,0,1,0
+Kepler-189 b,Kepler-189,3,Transit,2,0,1,0
+Kepler-189 c,Kepler-189,3,Transit,2,0,1,0
+Kepler-190 b,Kepler-190,3,Transit,2,0,1,0
+Kepler-190 c,Kepler-190,3,Transit,2,0,1,0
+Kepler-191 b,Kepler-191,3,Transit,2,0,1,0
+Kepler-191 c,Kepler-191,3,Transit,2,0,1,0
+Kepler-192 b,Kepler-192,3,Transit,2,0,1,0
+Kepler-192 c,Kepler-192,3,Transit,2,0,1,0
+Kepler-193 b,Kepler-193,3,Transit,2,0,1,0
+Kepler-193 c,Kepler-193,3,Transit,2,0,1,0
+Kepler-194 b,Kepler-194,3,Transit,3,0,1,0
+Kepler-194 c,Kepler-194,3,Transit,3,0,1,0
+Kepler-194 d,Kepler-194,3,Transit,3,0,1,0
+Kepler-195 b,Kepler-195,3,Transit,2,0,1,0
+Kepler-195 c,Kepler-195,3,Transit,2,0,1,0
+Kepler-196 b,Kepler-196,3,Transit,2,0,1,0
+Kepler-196 c,Kepler-196,3,Transit,2,0,1,0
+Kepler-197 b,Kepler-197,3,Transit,4,0,1,0
+Kepler-197 c,Kepler-197,3,Transit,4,0,1,0
+Kepler-197 d,Kepler-197,3,Transit,4,0,1,0
+Kepler-197 e,Kepler-197,3,Transit,4,0,1,0
+Kepler-198 b,Kepler-198,3,Transit,2,0,1,0
+Kepler-198 c,Kepler-198,3,Transit,2,0,1,0
+Kepler-199 b,Kepler-199,3,Transit,2,0,1,0
+Kepler-199 c,Kepler-199,3,Transit,2,0,1,0
+Kepler-200 b,Kepler-200,3,Transit,2,0,1,0
+Kepler-200 c,Kepler-200,3,Transit,2,0,1,0
+Kepler-201 b,Kepler-201,3,Transit,2,0,1,0
+Kepler-201 c,Kepler-201,3,Transit,2,0,1,0
+Kepler-202 b,Kepler-202,3,Transit,2,0,1,0
+Kepler-202 c,Kepler-202,3,Transit,2,0,1,0
+Kepler-203 b,Kepler-203,3,Transit,3,0,1,0
+Kepler-203 c,Kepler-203,3,Transit,3,0,1,0
+Kepler-203 d,Kepler-203,3,Transit,3,0,1,0
+Kepler-204 b,Kepler-204,3,Transit,2,0,1,0
+Kepler-204 c,Kepler-204,3,Transit,2,0,1,0
+Kepler-205 b,Kepler-205,3,Transit,2,0,1,0
+Kepler-205 c,Kepler-205,3,Transit,2,0,1,0
+Kepler-206 b,Kepler-206,3,Transit,3,0,1,0
+Kepler-206 c,Kepler-206,3,Transit,3,0,1,0
+Kepler-206 d,Kepler-206,3,Transit,3,0,1,0
+Kepler-207 b,Kepler-207,3,Transit,3,0,1,0
+Kepler-207 c,Kepler-207,3,Transit,3,0,1,0
+Kepler-207 d,Kepler-207,3,Transit,3,0,1,0
+Kepler-208 b,Kepler-208,3,Transit,4,0,1,0
+Kepler-208 c,Kepler-208,3,Transit,4,0,1,0
+Kepler-208 d,Kepler-208,3,Transit,4,0,1,0
+Kepler-208 e,Kepler-208,3,Transit,4,0,1,0
+Kepler-209 b,Kepler-209,3,Transit,2,0,1,0
+Kepler-209 c,Kepler-209,3,Transit,2,0,1,0
+Kepler-210 b,Kepler-210,3,Transit,2,0,1,0
+Kepler-210 c,Kepler-210,3,Transit,2,0,1,0
+Kepler-211 b,Kepler-211,3,Transit,2,0,1,0
+Kepler-211 c,Kepler-211,3,Transit,2,0,1,0
+Kepler-212 b,Kepler-212,3,Transit,2,0,1,0
+Kepler-212 c,Kepler-212,3,Transit,2,0,1,0
+Kepler-213 b,Kepler-213,3,Transit,2,0,1,0
+Kepler-213 c,Kepler-213,3,Transit,2,0,1,0
+Kepler-214 b,Kepler-214,3,Transit,2,0,1,0
+Kepler-214 c,Kepler-214,3,Transit,2,0,1,0
+Kepler-215 b,Kepler-215,3,Transit,4,0,1,0
+Kepler-215 c,Kepler-215,3,Transit,4,0,1,0
+Kepler-215 d,Kepler-215,3,Transit,4,0,1,0
+Kepler-215 e,Kepler-215,3,Transit,4,0,1,0
+Kepler-216 b,Kepler-216,3,Transit,2,0,1,0
+Kepler-216 c,Kepler-216,3,Transit,2,0,1,0
+Kepler-217 b,Kepler-217,3,Transit,2,0,1,0
+Kepler-217 c,Kepler-217,3,Transit,2,0,1,0
+Kepler-218 b,Kepler-218,3,Transit,2,0,1,0
+Kepler-218 c,Kepler-218,3,Transit,2,0,1,0
+Kepler-219 b,Kepler-219,3,Transit,3,0,1,0
+Kepler-219 c,Kepler-219,3,Transit,3,0,1,0
+Kepler-219 d,Kepler-219,3,Transit,3,0,1,0
+Kepler-220 b,Kepler-220,3,Transit,4,0,1,0
+Kepler-220 c,Kepler-220,3,Transit,4,0,1,0
+Kepler-220 d,Kepler-220,3,Transit,4,0,1,0
+Kepler-220 e,Kepler-220,3,Transit,4,0,1,0
+Kepler-221 b,Kepler-221,3,Transit,4,0,1,0
+Kepler-221 c,Kepler-221,3,Transit,4,0,1,0
+Kepler-221 d,Kepler-221,3,Transit,4,0,1,0
+Kepler-221 e,Kepler-221,3,Transit,4,0,1,0
+Kepler-222 b,Kepler-222,3,Transit,3,0,1,0
+Kepler-222 c,Kepler-222,3,Transit,3,0,1,0
+Kepler-222 d,Kepler-222,3,Transit,3,0,1,0
+Kepler-223 b,Kepler-223,3,Transit,4,0,1,0
+Kepler-223 c,Kepler-223,3,Transit,4,0,1,0
+Kepler-223 d,Kepler-223,3,Transit,4,0,1,0
+Kepler-223 e,Kepler-223,3,Transit,4,0,1,0
+Kepler-224 b,Kepler-224,3,Transit,4,0,1,0
+Kepler-224 c,Kepler-224,3,Transit,4,0,1,0
+Kepler-224 d,Kepler-224,3,Transit,4,0,1,0
+Kepler-224 e,Kepler-224,3,Transit,4,0,1,0
+Kepler-225 b,Kepler-225,3,Transit,2,0,1,0
+Kepler-225 c,Kepler-225,3,Transit,2,0,1,0
+Kepler-226 b,Kepler-226,3,Transit,3,0,1,0
+Kepler-226 c,Kepler-226,3,Transit,3,0,1,0
+Kepler-226 d,Kepler-226,3,Transit,3,0,1,0
+Kepler-227 b,Kepler-227,3,Transit,2,0,1,0
+Kepler-227 c,Kepler-227,3,Transit,2,0,1,0
+Kepler-228 b,Kepler-228,3,Transit,3,0,1,0
+Kepler-228 c,Kepler-228,3,Transit,3,0,1,0
+Kepler-228 d,Kepler-228,3,Transit,3,0,1,0
+Kepler-229 b,Kepler-229,3,Transit,3,0,1,0
+Kepler-229 c,Kepler-229,3,Transit,3,0,1,0
+Kepler-229 d,Kepler-229,3,Transit,3,0,1,0
+Kepler-230 b,Kepler-230,3,Transit,2,0,1,0
+Kepler-230 c,Kepler-230,3,Transit,2,0,1,0
+Kepler-231 b,Kepler-231,3,Transit,2,0,1,0
+Kepler-231 c,Kepler-231,3,Transit,2,0,1,0
+Kepler-232 b,Kepler-232,3,Transit,2,0,1,0
+Kepler-232 c,Kepler-232,3,Transit,2,0,1,0
+Kepler-233 b,Kepler-233,3,Transit,2,0,1,0
+Kepler-233 c,Kepler-233,3,Transit,2,0,1,0
+Kepler-234 b,Kepler-234,3,Transit,2,0,1,0
+Kepler-234 c,Kepler-234,3,Transit,2,0,1,0
+Kepler-235 b,Kepler-235,3,Transit,4,0,1,0
+Kepler-235 c,Kepler-235,3,Transit,4,0,1,0
+Kepler-235 d,Kepler-235,3,Transit,4,0,1,0
+Kepler-235 e,Kepler-235,3,Transit,4,0,1,0
+Kepler-236 b,Kepler-236,3,Transit,2,0,1,0
+Kepler-236 c,Kepler-236,3,Transit,2,0,1,0
+Kepler-237 b,Kepler-237,3,Transit,2,0,1,0
+Kepler-237 c,Kepler-237,3,Transit,2,0,1,0
+Kepler-238 b,Kepler-238,3,Transit,5,0,1,0
+Kepler-238 c,Kepler-238,3,Transit,5,0,1,0
+Kepler-238 d,Kepler-238,3,Transit,5,0,1,0
+Kepler-238 e,Kepler-238,3,Transit,5,0,1,0
+Kepler-238 f,Kepler-238,3,Transit,5,0,1,0
+Kepler-239 b,Kepler-239,3,Transit,2,0,1,0
+Kepler-239 c,Kepler-239,3,Transit,2,0,1,0
+Kepler-240 b,Kepler-240,3,Transit,2,0,1,0
+Kepler-240 c,Kepler-240,3,Transit,2,0,1,0
+Kepler-241 b,Kepler-241,3,Transit,2,0,1,0
+Kepler-241 c,Kepler-241,3,Transit,2,0,1,0
+Kepler-242 b,Kepler-242,3,Transit,2,0,1,0
+Kepler-242 c,Kepler-242,3,Transit,2,0,1,0
+Kepler-243 b,Kepler-243,3,Transit,2,0,1,0
+Kepler-243 c,Kepler-243,3,Transit,2,0,1,0
+Kepler-244 b,Kepler-244,3,Transit,3,0,1,0
+Kepler-244 c,Kepler-244,3,Transit,3,0,1,0
+Kepler-244 d,Kepler-244,3,Transit,3,0,1,0
+Kepler-245 b,Kepler-245,3,Transit,3,0,1,0
+Kepler-245 c,Kepler-245,3,Transit,3,0,1,0
+Kepler-245 d,Kepler-245,3,Transit,3,0,1,0
+Kepler-246 b,Kepler-246,3,Transit,2,0,1,0
+Kepler-246 c,Kepler-246,3,Transit,2,0,1,0
+Kepler-247 b,Kepler-247,3,Transit,3,0,1,0
+Kepler-247 c,Kepler-247,3,Transit,3,0,1,0
+Kepler-247 d,Kepler-247,3,Transit,3,0,1,0
+Kepler-248 b,Kepler-248,3,Transit,2,0,1,0
+Kepler-248 c,Kepler-248,3,Transit,2,0,1,0
+Kepler-249 b,Kepler-249,3,Transit,3,0,1,0
+Kepler-249 c,Kepler-249,3,Transit,3,0,1,0
+Kepler-249 d,Kepler-249,3,Transit,3,0,1,0
+Kepler-250 b,Kepler-250,3,Transit,3,0,1,0
+Kepler-250 c,Kepler-250,3,Transit,3,0,1,0
+Kepler-250 d,Kepler-250,3,Transit,3,0,1,0
+Kepler-251 b,Kepler-251,3,Transit,4,0,1,0
+Kepler-251 c,Kepler-251,3,Transit,4,0,1,0
+Kepler-251 d,Kepler-251,3,Transit,4,0,1,0
+Kepler-251 e,Kepler-251,3,Transit,4,0,1,0
+Kepler-252 b,Kepler-252,3,Transit,2,0,1,0
+Kepler-252 c,Kepler-252,3,Transit,2,0,1,0
+Kepler-253 b,Kepler-253,3,Transit,3,0,1,0
+Kepler-253 c,Kepler-253,3,Transit,3,0,1,0
+Kepler-253 d,Kepler-253,3,Transit,3,0,1,0
+Kepler-254 b,Kepler-254,3,Transit,3,0,1,0
+Kepler-254 c,Kepler-254,3,Transit,3,0,1,0
+Kepler-254 d,Kepler-254,3,Transit,3,0,1,0
+Kepler-255 b,Kepler-255,3,Transit,2,0,1,0
+Kepler-255 c,Kepler-255,3,Transit,2,0,1,0
+Kepler-256 b,Kepler-256,3,Transit,4,0,1,0
+Kepler-256 c,Kepler-256,3,Transit,4,0,1,0
+Kepler-256 d,Kepler-256,3,Transit,4,0,1,0
+Kepler-256 e,Kepler-256,3,Transit,4,0,1,0
+Kepler-257 b,Kepler-257,3,Transit,3,0,1,0
+Kepler-257 c,Kepler-257,3,Transit,3,0,1,0
+Kepler-257 d,Kepler-257,3,Transit,3,0,1,0
+Kepler-258 b,Kepler-258,3,Transit,2,0,1,0
+Kepler-258 c,Kepler-258,3,Transit,2,0,1,0
+Kepler-259 b,Kepler-259,3,Transit,2,0,1,0
+Kepler-259 c,Kepler-259,3,Transit,2,0,1,0
+Kepler-260 b,Kepler-260,3,Transit,2,0,1,0
+Kepler-260 c,Kepler-260,3,Transit,2,0,1,0
+Kepler-261 b,Kepler-261,3,Transit,2,0,1,0
+Kepler-261 c,Kepler-261,3,Transit,2,0,1,0
+Kepler-262 b,Kepler-262,3,Transit,2,0,1,0
+Kepler-262 c,Kepler-262,3,Transit,2,0,1,0
+Kepler-263 b,Kepler-263,3,Transit,2,0,1,0
+Kepler-263 c,Kepler-263,3,Transit,2,0,1,0
+Kepler-264 b,Kepler-264,3,Transit,2,0,1,0
+Kepler-264 c,Kepler-264,3,Transit,2,0,1,0
+Kepler-265 b,Kepler-265,3,Transit,4,0,1,0
+Kepler-265 c,Kepler-265,3,Transit,4,0,1,0
+Kepler-265 d,Kepler-265,3,Transit,4,0,1,0
+Kepler-265 e,Kepler-265,3,Transit,4,0,1,0
+Kepler-266 b,Kepler-266,3,Transit,2,0,1,0
+Kepler-266 c,Kepler-266,3,Transit,2,0,1,0
+Kepler-267 b,Kepler-267,3,Transit,3,0,1,0
+Kepler-267 c,Kepler-267,3,Transit,3,0,1,0
+Kepler-267 d,Kepler-267,3,Transit,3,0,1,0
+Kepler-268 b,Kepler-268,3,Transit,2,0,1,0
+Kepler-268 c,Kepler-268,3,Transit,2,0,1,0
+Kepler-269 b,Kepler-269,3,Transit,2,0,1,0
+Kepler-269 c,Kepler-269,3,Transit,2,0,1,0
+Kepler-270 b,Kepler-270,3,Transit,2,0,1,0
+Kepler-270 c,Kepler-270,3,Transit,2,0,1,0
+Kepler-271 b,Kepler-271,3,Transit,2,0,1,0
+Kepler-271 c,Kepler-271,3,Transit,2,0,1,0
+Kepler-272 b,Kepler-272,3,Transit,3,0,1,0
+Kepler-272 c,Kepler-272,3,Transit,3,0,1,0
+Kepler-272 d,Kepler-272,3,Transit,3,0,1,0
+Kepler-273 b,Kepler-273,3,Transit,2,0,1,0
+Kepler-273 c,Kepler-273,3,Transit,2,0,1,0
+Kepler-274 b,Kepler-274,3,Transit,2,0,1,0
+Kepler-274 c,Kepler-274,3,Transit,2,0,1,0
+Kepler-275 b,Kepler-275,3,Transit,3,0,1,0
+Kepler-275 c,Kepler-275,3,Transit,3,0,1,0
+Kepler-275 d,Kepler-275,3,Transit,3,0,1,0
+Kepler-276 b,Kepler-276,3,Transit,3,0,1,0
+Kepler-276 c,Kepler-276,3,Transit,3,0,1,0
+Kepler-276 d,Kepler-276,3,Transit,3,0,1,0
+Kepler-277 b,Kepler-277,3,Transit,2,0,1,0
+Kepler-277 c,Kepler-277,3,Transit,2,0,1,0
+Kepler-278 b,Kepler-278,3,Transit,2,0,1,0
+Kepler-278 c,Kepler-278,3,Transit,2,0,1,0
+Kepler-279 b,Kepler-279,3,Transit,3,0,1,0
+Kepler-279 c,Kepler-279,3,Transit,3,0,1,0
+Kepler-279 d,Kepler-279,3,Transit,3,0,1,0
+Kepler-280 b,Kepler-280,3,Transit,2,0,1,0
+Kepler-280 c,Kepler-280,3,Transit,2,0,1,0
+Kepler-281 b,Kepler-281,3,Transit,2,0,1,0
+Kepler-281 c,Kepler-281,3,Transit,2,0,1,0
+Kepler-282 b,Kepler-282,3,Transit,4,0,1,0
+Kepler-282 c,Kepler-282,3,Transit,4,0,1,0
+Kepler-282 d,Kepler-282,3,Transit,4,0,1,0
+Kepler-282 e,Kepler-282,3,Transit,4,0,1,0
+Kepler-283 b,Kepler-283,3,Transit,2,0,1,0
+Kepler-283 c,Kepler-283,3,Transit,2,0,1,0
+Kepler-284 b,Kepler-284,3,Transit,2,0,1,0
+Kepler-284 c,Kepler-284,3,Transit,2,0,1,0
+Kepler-285 b,Kepler-285,3,Transit,2,0,1,0
+Kepler-285 c,Kepler-285,3,Transit,2,0,1,0
+Kepler-286 b,Kepler-286,3,Transit,4,0,1,0
+Kepler-286 c,Kepler-286,3,Transit,4,0,1,0
+Kepler-286 d,Kepler-286,3,Transit,4,0,1,0
+Kepler-286 e,Kepler-286,3,Transit,4,0,1,0
+Kepler-287 b,Kepler-287,3,Transit,2,0,1,0
+Kepler-287 c,Kepler-287,3,Transit,2,0,1,0
+Kepler-288 b,Kepler-288,3,Transit,3,0,1,0
+Kepler-288 c,Kepler-288,3,Transit,3,0,1,0
+Kepler-288 d,Kepler-288,3,Transit,3,0,1,0
+Kepler-289 b,Kepler-289,3,Transit,3,0,1,0
+Kepler-289 c,Kepler-289,3,Transit,3,0,1,0
+Kepler-289 d,Kepler-289,3,Transit,3,0,1,0
+Kepler-290 b,Kepler-290,3,Transit,2,0,1,0
+Kepler-290 c,Kepler-290,3,Transit,2,0,1,0
+Kepler-291 b,Kepler-291,3,Transit,2,0,1,0
+Kepler-291 c,Kepler-291,3,Transit,2,0,1,0
+Kepler-292 b,Kepler-292,3,Transit,5,0,1,0
+Kepler-292 c,Kepler-292,3,Transit,5,0,1,0
+Kepler-292 d,Kepler-292,3,Transit,5,0,1,0
+Kepler-292 e,Kepler-292,3,Transit,5,0,1,0
+Kepler-292 f,Kepler-292,3,Transit,5,0,1,0
+Kepler-293 b,Kepler-293,3,Transit,2,0,1,0
+Kepler-293 c,Kepler-293,3,Transit,2,0,1,0
+Kepler-294 b,Kepler-294,3,Transit,2,0,1,0
+Kepler-294 c,Kepler-294,3,Transit,2,0,1,0
+Kepler-295 b,Kepler-295,3,Transit,3,0,1,0
+Kepler-295 c,Kepler-295,3,Transit,3,0,1,0
+Kepler-295 d,Kepler-295,3,Transit,3,0,1,0
+Kepler-296 b,Kepler-296,3,Transit,5,0,1,0
+Kepler-296 c,Kepler-296,3,Transit,5,0,1,0
+Kepler-296 d,Kepler-296,3,Transit,5,0,1,0
+Kepler-296 e,Kepler-296,3,Transit,5,0,1,0
+Kepler-296 f,Kepler-296,3,Transit,5,0,1,0
+Kepler-297 b,Kepler-297,3,Transit,2,0,1,0
+Kepler-297 c,Kepler-297,3,Transit,2,0,1,0
+Kepler-298 b,Kepler-298,3,Transit,3,0,1,0
+Kepler-298 c,Kepler-298,3,Transit,3,0,1,0
+Kepler-298 d,Kepler-298,3,Transit,3,0,1,0
+Kepler-299 b,Kepler-299,3,Transit,4,0,1,0
+Kepler-299 c,Kepler-299,3,Transit,4,0,1,0
+Kepler-299 d,Kepler-299,3,Transit,4,0,1,0
+Kepler-299 e,Kepler-299,3,Transit,4,0,1,0
+Kepler-300 b,Kepler-300,3,Transit,2,0,1,0
+Kepler-300 c,Kepler-300,3,Transit,2,0,1,0
+Kepler-301 b,Kepler-301,3,Transit,3,0,1,0
+Kepler-301 c,Kepler-301,3,Transit,3,0,1,0
+Kepler-301 d,Kepler-301,3,Transit,3,0,1,0
+Kepler-302 b,Kepler-302,3,Transit,2,0,1,0
+Kepler-302 c,Kepler-302,3,Transit,2,0,1,0
+Kepler-303 b,Kepler-303,3,Transit,2,0,1,0
+Kepler-303 c,Kepler-303,3,Transit,2,0,1,0
+Kepler-304 b,Kepler-304,3,Transit,3,0,1,0
+Kepler-304 c,Kepler-304,3,Transit,3,0,1,0
+Kepler-304 d,Kepler-304,3,Transit,3,0,1,0
+Kepler-305 b,Kepler-305,3,Transit,3,0,1,0
+Kepler-305 c,Kepler-305,3,Transit,3,0,1,0
+Kepler-305 d,Kepler-305,3,Transit,3,0,1,0
+Kepler-306 b,Kepler-306,3,Transit,4,0,1,0
+Kepler-306 c,Kepler-306,3,Transit,4,0,1,0
+Kepler-306 d,Kepler-306,3,Transit,4,0,1,0
+Kepler-306 e,Kepler-306,3,Transit,4,0,1,0
+Kepler-307 b,Kepler-307,3,Transit,2,0,1,0
+Kepler-307 c,Kepler-307,3,Transit,2,0,1,0
+Kepler-308 b,Kepler-308,3,Transit,2,0,1,0
+Kepler-308 c,Kepler-308,3,Transit,2,0,1,0
+Kepler-309 b,Kepler-309,3,Transit,2,0,1,0
+Kepler-309 c,Kepler-309,3,Transit,2,0,1,0
+Kepler-310 b,Kepler-310,3,Transit,3,0,1,0
+Kepler-310 c,Kepler-310,3,Transit,3,0,1,0
+Kepler-310 d,Kepler-310,3,Transit,3,0,1,0
+Kepler-311 b,Kepler-311,3,Transit,2,0,1,0
+Kepler-311 c,Kepler-311,3,Transit,2,0,1,0
+Kepler-312 b,Kepler-312,3,Transit,2,0,1,0
+Kepler-312 c,Kepler-312,3,Transit,2,0,1,0
+Kepler-313 b,Kepler-313,3,Transit,2,0,1,0
+Kepler-313 c,Kepler-313,3,Transit,2,0,1,0
+Kepler-314 b,Kepler-314,3,Transit,2,0,1,0
+Kepler-314 c,Kepler-314,3,Transit,2,0,1,0
+Kepler-315 b,Kepler-315,3,Transit,2,0,1,0
+Kepler-315 c,Kepler-315,3,Transit,2,0,1,0
+Kepler-316 b,Kepler-316,3,Transit,2,0,1,0
+Kepler-316 c,Kepler-316,3,Transit,2,0,1,0
+Kepler-317 b,Kepler-317,3,Transit,2,0,1,0
+Kepler-317 c,Kepler-317,3,Transit,2,0,1,0
+Kepler-318 b,Kepler-318,3,Transit,2,0,1,0
+Kepler-318 c,Kepler-318,3,Transit,2,0,1,0
+Kepler-319 b,Kepler-319,3,Transit,3,0,1,0
+Kepler-319 c,Kepler-319,3,Transit,3,0,1,0
+Kepler-319 d,Kepler-319,3,Transit,3,0,1,0
+Kepler-320 b,Kepler-320,3,Transit,2,0,1,0
+Kepler-320 c,Kepler-320,3,Transit,2,0,1,0
+Kepler-321 b,Kepler-321,3,Transit,2,0,1,0
+Kepler-321 c,Kepler-321,3,Transit,2,0,1,0
+Kepler-322 b,Kepler-322,3,Transit,2,0,1,0
+Kepler-322 c,Kepler-322,3,Transit,2,0,1,0
+Kepler-323 b,Kepler-323,3,Transit,2,0,1,0
+Kepler-323 c,Kepler-323,3,Transit,2,0,1,0
+Kepler-324 b,Kepler-324,3,Transit,2,0,1,0
+Kepler-324 c,Kepler-324,3,Transit,2,0,1,0
+Kepler-325 b,Kepler-325,3,Transit,3,0,1,0
+Kepler-325 c,Kepler-325,3,Transit,3,0,1,0
+Kepler-325 d,Kepler-325,3,Transit,3,0,1,0
+Kepler-326 b,Kepler-326,3,Transit,3,0,1,0
+Kepler-326 c,Kepler-326,3,Transit,3,0,1,0
+Kepler-326 d,Kepler-326,3,Transit,3,0,1,0
+Kepler-327 b,Kepler-327,3,Transit,3,0,1,0
+Kepler-327 c,Kepler-327,3,Transit,3,0,1,0
+Kepler-327 d,Kepler-327,3,Transit,3,0,1,0
+Kepler-328 b,Kepler-328,3,Transit,2,0,1,0
+Kepler-328 c,Kepler-328,3,Transit,2,0,1,0
+Kepler-329 b,Kepler-329,3,Transit,2,0,1,0
+Kepler-329 c,Kepler-329,3,Transit,2,0,1,0
+Kepler-330 b,Kepler-330,3,Transit,2,0,1,0
+Kepler-330 c,Kepler-330,3,Transit,2,0,1,0
+Kepler-331 b,Kepler-331,3,Transit,3,0,1,0
+Kepler-331 c,Kepler-331,3,Transit,3,0,1,0
+Kepler-331 d,Kepler-331,3,Transit,3,0,1,0
+Kepler-332 b,Kepler-332,3,Transit,3,0,1,0
+Kepler-332 c,Kepler-332,3,Transit,3,0,1,0
+Kepler-332 d,Kepler-332,3,Transit,3,0,1,0
+Kepler-333 b,Kepler-333,3,Transit,2,0,1,0
+Kepler-333 c,Kepler-333,3,Transit,2,0,1,0
+Kepler-334 b,Kepler-334,3,Transit,3,0,1,0
+Kepler-334 c,Kepler-334,3,Transit,3,0,1,0
+Kepler-334 d,Kepler-334,3,Transit,3,0,1,0
+Kepler-335 b,Kepler-335,3,Transit,2,0,1,0
+Kepler-335 c,Kepler-335,3,Transit,2,0,1,0
+Kepler-336 b,Kepler-336,3,Transit,3,0,1,0
+Kepler-336 c,Kepler-336,3,Transit,3,0,1,0
+Kepler-336 d,Kepler-336,3,Transit,3,0,1,0
+Kepler-337 b,Kepler-337,3,Transit,2,0,1,0
+Kepler-337 c,Kepler-337,3,Transit,2,0,1,0
+Kepler-338 b,Kepler-338,3,Transit,4,0,1,0
+Kepler-338 c,Kepler-338,3,Transit,4,0,1,0
+Kepler-338 d,Kepler-338,3,Transit,4,0,1,0
+Kepler-338 e,Kepler-338,3,Transit Timing Variations,4,0,1,0
+Kepler-339 b,Kepler-339,3,Transit,3,0,1,0
+Kepler-339 c,Kepler-339,3,Transit,3,0,1,0
+Kepler-339 d,Kepler-339,3,Transit,3,0,1,0
+Kepler-340 b,Kepler-340,3,Transit,2,0,1,0
+Kepler-340 c,Kepler-340,3,Transit,2,0,1,0
+Kepler-341 b,Kepler-341,3,Transit,4,0,1,0
+Kepler-341 c,Kepler-341,3,Transit,4,0,1,0
+Kepler-341 d,Kepler-341,3,Transit,4,0,1,0
+Kepler-341 e,Kepler-341,3,Transit,4,0,1,0
+Kepler-342 b,Kepler-342,3,Transit,3,0,1,0
+Kepler-342 c,Kepler-342,3,Transit,3,0,1,0
+Kepler-342 d,Kepler-342,3,Transit,3,0,1,0
+Kepler-343 b,Kepler-343,3,Transit,2,0,1,0
+Kepler-343 c,Kepler-343,3,Transit,2,0,1,0
+Kepler-344 b,Kepler-344,3,Transit,2,0,1,0
+Kepler-344 c,Kepler-344,3,Transit,2,0,1,0
+Kepler-345 b,Kepler-345,3,Transit,2,0,1,0
+Kepler-345 c,Kepler-345,3,Transit,2,0,1,0
+Kepler-346 b,Kepler-346,3,Transit,2,0,1,0
+Kepler-346 c,Kepler-346,3,Transit,2,0,1,0
+Kepler-347 b,Kepler-347,3,Transit,2,0,1,0
+Kepler-347 c,Kepler-347,3,Transit,2,0,1,0
+Kepler-348 b,Kepler-348,3,Transit,2,0,1,0
+Kepler-348 c,Kepler-348,3,Transit,2,0,1,0
+Kepler-349 b,Kepler-349,3,Transit,2,0,1,0
+Kepler-349 c,Kepler-349,3,Transit,2,0,1,0
+Kepler-350 b,Kepler-350,3,Transit,3,0,1,0
+Kepler-350 c,Kepler-350,3,Transit,3,0,1,0
+Kepler-350 d,Kepler-350,3,Transit,3,0,1,0
+Kepler-351 b,Kepler-351,3,Transit,2,0,1,0
+Kepler-351 c,Kepler-351,3,Transit,2,0,1,0
+Kepler-352 b,Kepler-352,3,Transit,2,0,1,0
+Kepler-352 c,Kepler-352,3,Transit,2,0,1,0
+Kepler-353 b,Kepler-353,3,Transit,2,0,1,0
+Kepler-353 c,Kepler-353,3,Transit,2,0,1,0
+Kepler-354 b,Kepler-354,3,Transit,3,0,1,0
+Kepler-354 c,Kepler-354,3,Transit,3,0,1,0
+Kepler-354 d,Kepler-354,3,Transit,3,0,1,0
+Kepler-355 b,Kepler-355,3,Transit,2,0,1,0
+Kepler-355 c,Kepler-355,3,Transit,2,0,1,0
+Kepler-356 b,Kepler-356,3,Transit,2,0,1,0
+Kepler-356 c,Kepler-356,3,Transit,2,0,1,0
+Kepler-357 b,Kepler-357,3,Transit,3,0,1,0
+Kepler-357 c,Kepler-357,3,Transit,3,0,1,0
+Kepler-357 d,Kepler-357,3,Transit,3,0,1,0
+Kepler-358 b,Kepler-358,3,Transit,2,0,1,0
+Kepler-358 c,Kepler-358,3,Transit,2,0,1,0
+Kepler-359 b,Kepler-359,3,Transit,3,0,1,0
+Kepler-359 c,Kepler-359,3,Transit,3,0,1,0
+Kepler-359 d,Kepler-359,3,Transit,3,0,1,0
+Kepler-360 b,Kepler-360,3,Transit,2,0,1,0
+Kepler-360 c,Kepler-360,3,Transit,2,0,1,0
+Kepler-361 b,Kepler-361,3,Transit,2,0,1,0
+Kepler-361 c,Kepler-361,3,Transit,2,0,1,0
+Kepler-362 b,Kepler-362,3,Transit,2,0,1,0
+Kepler-362 c,Kepler-362,3,Transit,2,0,1,0
+Kepler-363 b,Kepler-363,3,Transit,3,0,1,0
+Kepler-363 c,Kepler-363,3,Transit,3,0,1,0
+Kepler-363 d,Kepler-363,3,Transit,3,0,1,0
+Kepler-364 b,Kepler-364,3,Transit,2,0,1,0
+Kepler-364 c,Kepler-364,3,Transit,2,0,1,0
+Kepler-365 b,Kepler-365,3,Transit,2,0,1,0
+Kepler-365 c,Kepler-365,3,Transit,2,0,1,0
+Kepler-366 b,Kepler-366,3,Transit,2,0,1,0
+Kepler-366 c,Kepler-366,3,Transit,2,0,1,0
+Kepler-367 b,Kepler-367,3,Transit,2,0,1,0
+Kepler-367 c,Kepler-367,3,Transit,2,0,1,0
+Kepler-368 b,Kepler-368,3,Transit,2,0,1,0
+Kepler-368 c,Kepler-368,3,Transit,2,0,1,0
+Kepler-369 b,Kepler-369,3,Transit,2,0,1,0
+Kepler-369 c,Kepler-369,3,Transit,2,0,1,0
+Kepler-370 b,Kepler-370,3,Transit,2,0,1,0
+Kepler-370 c,Kepler-370,3,Transit,2,0,1,0
+Kepler-371 b,Kepler-371,3,Transit,2,0,1,0
+Kepler-371 c,Kepler-371,3,Transit,2,0,1,0
+Kepler-372 b,Kepler-372,3,Transit,3,0,1,0
+Kepler-372 c,Kepler-372,3,Transit,3,0,1,0
+Kepler-372 d,Kepler-372,3,Transit,3,0,1,0
+Kepler-373 b,Kepler-373,3,Transit,2,0,1,0
+Kepler-373 c,Kepler-373,3,Transit,2,0,1,0
+Kepler-374 b,Kepler-374,3,Transit,3,0,1,0
+Kepler-374 c,Kepler-374,3,Transit,3,0,1,0
+Kepler-374 d,Kepler-374,3,Transit,3,0,1,0
+Kepler-375 b,Kepler-375,3,Transit,2,0,1,0
+Kepler-375 c,Kepler-375,3,Transit,2,0,1,0
+Kepler-376 b,Kepler-376,3,Transit,2,0,1,0
+Kepler-376 c,Kepler-376,3,Transit,2,0,1,0
+Kepler-377 b,Kepler-377,3,Transit,2,0,1,0
+Kepler-377 c,Kepler-377,3,Transit,2,0,1,0
+Kepler-378 b,Kepler-378,3,Transit,2,0,1,0
+Kepler-378 c,Kepler-378,3,Transit,2,0,1,0
+Kepler-379 b,Kepler-379,3,Transit,2,0,1,0
+Kepler-379 c,Kepler-379,3,Transit,2,0,1,0
+Kepler-380 b,Kepler-380,3,Transit,2,0,1,0
+Kepler-380 c,Kepler-380,3,Transit,2,0,1,0
+Kepler-381 b,Kepler-381,3,Transit,2,0,1,0
+Kepler-381 c,Kepler-381,3,Transit,2,0,1,0
+Kepler-382 b,Kepler-382,3,Transit,2,0,1,0
+Kepler-382 c,Kepler-382,3,Transit,2,0,1,0
+Kepler-383 b,Kepler-383,3,Transit,2,0,1,0
+Kepler-383 c,Kepler-383,3,Transit,2,0,1,0
+Kepler-384 b,Kepler-384,3,Transit,2,0,1,0
+Kepler-384 c,Kepler-384,3,Transit,2,0,1,0
+Kepler-385 b,Kepler-385,3,Transit,2,0,1,0
+Kepler-385 c,Kepler-385,3,Transit,2,0,1,0
+Kepler-386 b,Kepler-386,3,Transit,2,0,1,0
+Kepler-386 c,Kepler-386,3,Transit,2,0,1,0
+Kepler-387 b,Kepler-387,3,Transit,2,0,1,0
+Kepler-387 c,Kepler-387,3,Transit,2,0,1,0
+Kepler-388 b,Kepler-388,3,Transit,2,0,1,0
+Kepler-388 c,Kepler-388,3,Transit,2,0,1,0
+Kepler-389 b,Kepler-389,3,Transit,2,0,1,0
+Kepler-389 c,Kepler-389,3,Transit,2,0,1,0
+Kepler-390 b,Kepler-390,3,Transit,2,0,1,0
+Kepler-390 c,Kepler-390,3,Transit,2,0,1,0
+Kepler-391 b,Kepler-391,3,Transit,2,0,1,0
+Kepler-391 c,Kepler-391,3,Transit,2,0,1,0
+Kepler-392 b,Kepler-392,3,Transit,2,0,1,0
+Kepler-392 c,Kepler-392,3,Transit,2,0,1,0
+Kepler-393 b,Kepler-393,3,Transit,2,0,1,0
+Kepler-393 c,Kepler-393,3,Transit,2,0,1,0
+Kepler-394 b,Kepler-394,3,Transit,2,0,1,0
+Kepler-394 c,Kepler-394,3,Transit,2,0,1,0
+Kepler-395 b,Kepler-395,3,Transit,2,0,1,0
+Kepler-395 c,Kepler-395,3,Transit,2,0,1,0
+Kepler-396 b,Kepler-396,3,Transit,2,0,1,0
+Kepler-396 c,Kepler-396,3,Transit,2,0,1,0
+Kepler-397 b,Kepler-397,3,Transit,2,0,1,0
+Kepler-397 c,Kepler-397,3,Transit,2,0,1,0
+Kepler-398 b,Kepler-398,3,Transit,2,0,1,0
+Kepler-398 c,Kepler-398,3,Transit,2,0,1,0
+Kepler-399 b,Kepler-399,3,Transit,3,0,1,0
+Kepler-399 c,Kepler-399,3,Transit,3,0,1,0
+Kepler-399 d,Kepler-399,3,Transit,3,0,1,0
+Kepler-400 b,Kepler-400,3,Transit,2,0,1,0
+Kepler-400 c,Kepler-400,3,Transit,2,0,1,0
+Kepler-401 b,Kepler-401,3,Transit,2,0,1,0
+Kepler-401 c,Kepler-401,3,Transit,2,0,1,0
+Kepler-402 b,Kepler-402,3,Transit,4,0,1,0
+Kepler-402 c,Kepler-402,3,Transit,4,0,1,0
+Kepler-402 d,Kepler-402,3,Transit,4,0,1,0
+Kepler-402 e,Kepler-402,3,Transit,4,0,1,0
+Kepler-403 b,Kepler-403,3,Transit,2,0,1,0
+Kepler-403 c,Kepler-403,3,Transit,2,0,1,0
+Kepler-404 b,Kepler-404,3,Transit,2,0,1,0
+Kepler-404 c,Kepler-404,3,Transit,2,0,1,0
+Kepler-405 b,Kepler-405,3,Transit,2,0,1,0
+Kepler-405 c,Kepler-405,3,Transit,2,0,1,0
+Kepler-406 b,Kepler-406,3,Transit,2,0,1,0
+Kepler-406 c,Kepler-406,3,Transit,2,0,1,0
+Kepler-407 b,Kepler-407,3,Transit,2,0,1,0
+Kepler-407 c,Kepler-407,3,Radial Velocity,2,0,0,0
+Kepler-408 b,Kepler-408,3,Transit,1,0,1,0
+Kepler-409 b,Kepler-409,3,Transit,1,0,1,0
+Kepler-410 A b,Kepler-410 A,3,Transit,1,0,1,0
+Kepler-411 b,Kepler-411,3,Transit,1,0,1,0
+Kepler-412 b,Kepler-412,3,Transit,1,0,1,0
+Kepler-413 b,KOI-7522,3,Transit,1,0,1,1
+Kepler-414 b,Kepler-414,3,Transit Timing Variations,2,0,1,0
+Kepler-414 c,Kepler-414,3,Transit Timing Variations,2,0,1,0
+Kepler-415 b,Kepler-415,3,Transit Timing Variations,2,0,1,0
+Kepler-415 c,Kepler-415,3,Transit Timing Variations,2,0,1,0
+Kepler-416 b,Kepler-416,3,Transit Timing Variations,2,0,1,0
+Kepler-416 c,Kepler-416,3,Transit Timing Variations,2,0,1,0
+Kepler-417 b,Kepler-417,3,Transit Timing Variations,2,0,1,0
+Kepler-417 c,Kepler-417,3,Transit Timing Variations,2,0,1,0
+Kepler-418 b,Kepler-418,3,Transit,1,0,1,0
+Kepler-419 b,Kepler-419,3,Transit,2,0,1,0
+Kepler-419 c,Kepler-419,3,Transit Timing Variations,2,0,0,0
+Kepler-420 b,Kepler-420,3,Transit,1,0,1,0
+Kepler-421 b,Kepler-421,3,Transit,1,0,1,0
+Kepler-422 b,Kepler-422,3,Transit,1,0,1,0
+Kepler-423 b,Kepler-423,3,Transit,1,0,1,0
+Kepler-424 b,Kepler-424,3,Transit,2,0,1,0
+Kepler-424 c,Kepler-424,3,Radial Velocity,2,0,0,0
+Kepler-425 b,Kepler-425,3,Transit,1,0,1,0
+Kepler-426 b,Kepler-426,3,Transit,1,0,1,0
+Kepler-427 b,Kepler-427,3,Transit,1,0,1,0
+Kepler-428 b,Kepler-428,3,Transit,1,0,1,0
+KIC 10001893 b,KIC 10001893,3,Orbital Brightness Modulation,3,0,0,0
+KIC 10001893 c,KIC 10001893,3,Orbital Brightness Modulation,3,0,0,0
+KIC 10001893 d,KIC 10001893,3,Orbital Brightness Modulation,3,0,0,0
+Kepler-430 b,Kepler-430,3,Transit,2,0,1,0
+Kepler-430 c,Kepler-430,3,Transit,2,0,1,0
+Kepler-431 b,Kepler-431,3,Transit,3,0,1,0
+Kepler-431 c,Kepler-431,3,Transit,3,0,1,0
+Kepler-431 d,Kepler-431,3,Transit,3,0,1,0
+Kepler-432 b,Kepler-432,3,Transit,1,0,1,0
+Kepler-433 b,Kepler-433,3,Transit,1,0,1,0
+Kepler-434 b,Kepler-434,3,Transit,1,0,1,0
+Kepler-435 b,Kepler-435,3,Transit,1,0,1,0
+Kepler-436 b,Kepler-436,3,Transit,1,0,1,0
+Kepler-437 b,Kepler-437,3,Transit,1,0,1,0
+Kepler-438 b,Kepler-438,3,Transit,1,0,1,0
+Kepler-439 b,Kepler-439,3,Transit,1,0,1,0
+Kepler-440 b,Kepler-440,3,Transit,1,0,1,0
+Kepler-441 b,Kepler-441,3,Transit,1,0,1,0
+Kepler-442 b,Kepler-442,3,Transit,1,0,1,0
+Kepler-443 b,Kepler-443,3,Transit,1,0,1,0
+Kepler-444 b,Kepler-444,3,Transit,5,0,1,0
+Kepler-444 c,Kepler-444,3,Transit,5,0,1,0
+Kepler-444 d,Kepler-444,3,Transit,5,0,1,0
+Kepler-444 e,Kepler-444,3,Transit,5,0,1,0
+Kepler-444 f,Kepler-444,3,Transit,5,0,1,0
+Kepler-445 b,Kepler-445,3,Transit,3,0,1,0
+Kepler-445 c,Kepler-445,3,Transit,3,0,1,0
+Kepler-445 d,Kepler-445,3,Transit,3,0,1,0
+Kepler-446 b,Kepler-446,3,Transit,3,0,1,0
+Kepler-446 c,Kepler-446,3,Transit,3,0,1,0
+Kepler-446 d,Kepler-446,3,Transit,3,0,1,0
+Kepler-447 b,Kepler-447,3,Transit,1,0,1,0
+Lupus-TR-3 b,Lupus-TR-3,3,Transit,1,0,1,0
+MOA 2007-BLG-192L b,MOA 2007-BLG-192L,3,Microlensing,1,0,0,0
+MOA 2007-BLG-400L b,MOA 2007-BLG-400L,3,Microlensing,1,0,0,0
+MOA 2008-BLG-310L b,MOA 2008-BLG-310L,3,Microlensing,1,0,0,0
+MOA 2008-BLG-379L b,MOA 2008-BLG-379L,3,Microlensing,1,0,0,0
+MOA 2009-BLG-266L b,MOA 2009-BLG-266L,3,Microlensing,1,0,0,0
+MOA 2009-BLG-319L b,MOA 2009-BLG-319L,3,Microlensing,1,0,0,0
+MOA 2009-BLG-387L b,MOA 2009-BLG-387L,3,Microlensing,1,0,0,0
+MOA 2010-BLG-477L b,MOA 2010-BLG-477L,3,Microlensing,1,0,0,0
+MOA 2010-BLG-073L b,MOA 2010-BLG-073L,3,Microlensing,1,0,0,0
+MOA 2011-BLG-293L b,MOA 2011-BLG-293L,3,Microlensing,1,0,0,0
+MOA 2011-BLG-322L b,MOA 2011-BLG-322L,3,Microlensing,1,0,0,0
+MOA-bin-1L b,MOA-bin-1L,3,Microlensing,1,0,0,0
+NGC 2682 YBP 1194 b,NGC 2682 YBP 1194,3,Radial Velocity,1,0,0,0
+NGC 2682 YBP 1514 b,NGC 2682 YBP 1514,3,Radial Velocity,1,0,0,0
+NGC 2682 Sand 364 b,NGC 2682 Sand 364,3,Radial Velocity,1,0,0,0
+NGC 4349 127 b,NGC 4349 127,3,Radial Velocity,1,0,0,0
+OGLE 2003-BLG-235L b,OGLE 2003-BLG-235L,3,Microlensing,1,0,0,0
+OGLE 2005-BLG-71L b,OGLE 2005-BLG-71L,3,Microlensing,1,0,0,0
+OGLE 2005-BLG-169L b,OGLE 2005-BLG-169L,3,Microlensing,1,0,0,0
+OGLE 2005-BLG-390L b,OGLE 2005-BLG-390L,3,Microlensing,1,0,0,0
+OGLE 2006-BLG-109L b,OGLE 2006-BLG-109L,3,Microlensing,2,0,0,0
+OGLE 2006-BLG-109L c,OGLE 2006-BLG-109L,3,Microlensing,2,0,0,0
+OGLE 2007-BLG-368L b,OGLE 2007-BLG-368L,3,Microlensing,1,0,0,0
+OGLE 2008-BLG-092L b,OGLE 2008-BLG-092L,3,Microlensing,1,0,0,0
+OGLE 2008-BLG-355L b,OGLE 2008-BLG-355L,3,Microlensing,1,0,0,0
+OGLE 2011-BLG-251L b,OGLE 2011-BLG-251L,3,Microlensing,1,0,0,0
+OGLE 2011-BLG-265L b,OGLE 2011-BLG-265L,3,Microlensing,1,0,0,0
+OGLE 2012-BLG-026L b,OGLE 2012-BLG-026L,3,Microlensing,2,0,0,0
+OGLE 2012-BLG-026L c,OGLE 2012-BLG-026L,3,Microlensing,2,0,0,0
+OGLE 2012-BLG-358L b,OGLE 2012-BLG-358L,3,Microlensing,1,0,0,0
+OGLE 2012-BLG-406L b,OGLE 2012-BLG-406L,3,Microlensing,1,0,0,0
+OGLE 2013-BLG-102L b,OGLE 2013-BLG-102L,3,Microlensing,1,0,0,0
+OGLE 2013-BLG-341L B b,OGLE 2013-BLG-341L B,3,Microlensing,1,0,0,0
+OGLE 2014-BLG-124L b,OGLE 2014-BLG-124L,3,Microlensing,1,0,0,0
+OGLE2-TR-L9 b,OGLE2-TR-L9,3,Transit,1,0,1,0
+OGLE-TR-10 b,OGLE-TR-10,3,Transit,1,0,1,0
+OGLE-TR-056 b,OGLE-TR-056,3,Transit,1,0,1,0
+OGLE-TR-111 b,OGLE-TR-111,3,Transit,1,0,1,0
+OGLE-TR-113 b,OGLE-TR-113,3,Transit,1,0,1,0
+OGLE-TR-132 b,OGLE-TR-132,3,Transit,1,0,1,0
+OGLE-TR-182 b,OGLE-TR-182,3,Transit,1,0,1,0
+OGLE-TR-211 b,OGLE-TR-211,3,Transit,1,0,1,0
+Oph 11 b,Oph 11,3,Imaging,1,0,0,0
+POTS-1 b,POTS-1,3,Transit,1,0,1,0
+Pr0201 b,Pr0201,3,Radial Velocity,1,0,0,0
+Pr0211 b,Pr0211,3,Radial Velocity,1,0,0,0
+PSR B1257+12 b,PSR B1257+12,3,Pulsar Timing,3,0,0,0
+PSR B1257+12 c,PSR B1257+12,3,Pulsar Timing,3,0,0,0
+PSR B1257+12 d,PSR B1257+12,3,Pulsar Timing,3,0,0,0
+PSR B1620-26 b,PSR B1620-26,3,Pulsar Timing,1,0,0,1
+PSR J1719-1438 b,PSR J1719-1438,3,Pulsar Timing,1,0,0,0
+Qatar-1 b,Qatar-1,3,Transit,1,0,1,0
+Qatar-2 b,Qatar-2,3,Transit,1,0,1,0
+ROXs 42 B b,ROXs 42 B,3,Imaging,1,0,0,0
+ROXs 12 b,ROXs 12,3,Imaging,1,0,0,0
+SR 12 AB c,SR 12 AB,3,Imaging,1,0,0,1
+SWEEPS-4 b,SWEEPS-4,3,Transit,1,0,1,0
+SWEEPS-11 b,SWEEPS-11,3,Transit,1,0,1,0
+TrES-1 b,TrES-1,3,Transit,1,0,1,0
+TrES-3 b,TrES-3,3,Transit,1,0,1,0
+TrES-4 b,TrES-4,3,Transit,1,0,1,0
+TrES-5 b,TrES-5,3,Transit,1,0,1,0
+TYC 1422-614-1 b,TYC 1422-614-1,3,Radial Velocity,2,0,0,0
+TYC 1422-614-1 c,TYC 1422-614-1,3,Radial Velocity,2,0,0,0
+USco CTIO 108 b,USco CTIO 108,3,Imaging,1,0,0,0
+V0391 Peg b,V0391 Peg,3,Pulsation Timing Variations,1,0,0,0
+WASP-1 b,WASP-1,3,Transit,1,0,1,0
+WASP-2 b,WASP-2,3,Transit,1,0,1,0
+WASP-3 b,WASP-3,3,Transit,1,0,1,0
+WASP-4 b,WASP-4,3,Transit,1,0,1,0
+WASP-5 b,WASP-5,3,Transit,1,0,1,0
+WASP-6 b,WASP-6,3,Transit,1,0,1,0
+WASP-7 b,WASP-7,3,Transit,1,0,1,0
+WASP-8 b,WASP-8,3,Transit,2,0,1,0
+WASP-8 c,WASP-8,3,Radial Velocity,2,0,0,0
+WASP-10 b,WASP-10,3,Transit,1,0,1,0
+WASP-11 b,WASP-11,3,Transit,1,0,1,0
+WASP-12 b,WASP-12,3,Transit,1,0,1,0
+WASP-13 b,WASP-13,3,Transit,1,0,1,0
+WASP-14 b,WASP-14,3,Transit,1,0,1,0
+WASP-15 b,WASP-15,3,Transit,1,0,1,0
+WASP-16 b,WASP-16,3,Transit,1,0,1,0
+WASP-17 b,WASP-17,3,Transit,1,0,1,0
+WASP-18 b,WASP-18,3,Transit,1,0,1,0
+WASP-19 b,WASP-19,3,Transit,1,0,1,0
+WASP-20 b,WASP-20,3,Transit,1,0,1,0
+WASP-21 b,WASP-21,3,Transit,1,0,1,0
+WASP-22 b,WASP-22,3,Transit,1,0,1,0
+WASP-23 b,WASP-23,3,Transit,1,0,1,0
+WASP-24 b,WASP-24,3,Transit,1,0,1,0
+WASP-25 b,WASP-25,3,Transit,1,0,1,0
+WASP-26 b,WASP-26,3,Transit,1,0,1,0
+WASP-28 b,WASP-28,3,Transit,1,0,1,0
+WASP-29 b,WASP-29,3,Transit,1,0,1,0
+WASP-31 b,WASP-31,3,Transit,1,0,1,0
+WASP-32 b,WASP-32,3,Transit,1,0,1,0
+WASP-33 b,WASP-33,3,Transit,1,0,1,0
+WASP-34 b,WASP-34,3,Transit,1,0,1,0
+WASP-35 b,WASP-35,3,Transit,1,0,1,0
+WASP-36 b,WASP-36,3,Transit,1,0,1,0
+WASP-37 b,WASP-37,3,Transit,1,0,1,0
+WASP-38 b,WASP-38,3,Transit,1,0,1,0
+WASP-39 b,WASP-39,3,Transit,1,0,1,0
+WASP-41 b,WASP-41,3,Transit,1,0,1,0
+WASP-42 b,WASP-42,3,Transit,1,0,1,0
+WASP-43 b,WASP-43,3,Transit,1,0,1,0
+WASP-44 b,WASP-44,3,Transit,1,0,1,0
+WASP-45 b,WASP-45,3,Transit,1,0,1,0
+WASP-46 b,WASP-46,3,Transit,1,0,1,0
+WASP-47 b,WASP-47,3,Transit,1,0,1,0
+WASP-48 b,WASP-48,3,Transit,1,0,1,0
+WASP-49 b,WASP-49,3,Transit,1,0,1,0
+WASP-50 b,WASP-50,3,Transit,1,0,1,0
+WASP-52 b,WASP-52,3,Transit,1,0,1,0
+WASP-54 b,WASP-54,3,Transit,1,0,1,0
+WASP-55 b,WASP-55,3,Transit,1,0,1,0
+WASP-56 b,WASP-56,3,Transit,1,0,1,0
+WASP-57 b,WASP-57,3,Transit,1,0,1,0
+WASP-58 b,WASP-58,3,Transit,1,0,1,0
+WASP-59 b,WASP-59,3,Transit,1,0,1,0
+WASP-60 b,WASP-60,3,Transit,1,0,1,0
+WASP-61 b,WASP-61,3,Transit,1,0,1,0
+WASP-62 b,WASP-62,3,Transit,1,0,1,0
+WASP-63 b,WASP-63,3,Transit,1,0,1,0
+WASP-64 b,WASP-64,3,Transit,1,0,1,0
+WASP-65 b,WASP-65,3,Transit,1,0,1,0
+WASP-66 b,WASP-66,3,Transit,1,0,1,0
+WASP-67 b,WASP-67,3,Transit,1,0,1,0
+WASP-68 b,WASP-68,3,Transit,1,0,1,0
+WASP-69 b,WASP-69,3,Transit,1,0,1,0
+WASP-70 A b,WASP-70 A,3,Transit,1,0,1,0
+WASP-71 b,WASP-71,3,Transit,1,0,1,0
+WASP-72 b,WASP-72,3,Transit,1,0,1,0
+WASP-73 b,WASP-73,3,Transit,1,0,1,0
+WASP-75 b,WASP-75,3,Transit,1,0,1,0
+WASP-77 A b,WASP-77 A,3,Transit,1,0,1,0
+WASP-78 b,WASP-78,3,Transit,1,0,1,0
+WASP-79 b,WASP-79,3,Transit,1,0,1,0
+WASP-80 b,WASP-80,3,Transit,1,0,1,0
+WASP-82 b,WASP-82,3,Transit,1,0,1,0
+WASP-84 b,WASP-84,3,Transit,1,0,1,0
+WASP-88 b,WASP-88,3,Transit,1,0,1,0
+WASP-94 A b,WASP-94 A,3,Transit,1,0,1,0
+WASP-94 B b,WASP-94 B,3,Radial Velocity,1,0,0,0
+WASP-95 b,WASP-95,3,Transit,1,0,1,0
+WASP-96 b,WASP-96,3,Transit,1,0,1,0
+WASP-97 b,WASP-97,3,Transit,1,0,1,0
+WASP-98 b,WASP-98,3,Transit,1,0,1,0
+WASP-99 b,WASP-99,3,Transit,1,0,1,0
+WASP-100 b,WASP-100,3,Transit,1,0,1,0
+WASP-101 b,WASP-101,3,Transit,1,0,1,0
+WASP-103 b,WASP-103,3,Transit,1,0,1,0
+WASP-104 b,WASP-104,3,Transit,1,0,1,0
+WASP-106 b,WASP-106,3,Transit,1,0,1,0
+WASP-117 b,WASP-117,3,Transit,1,0,1,0
+WD 0806-661 b,WD 0806-661,3,Imaging,1,0,0,0
+WTS-1 b,WTS-1,3,Transit,1,0,1,0
+WTS-2 b,WTS-2,3,Transit,1,0,1,0
+WISEP J121756.91+162640.2 A b,WISEP J121756.91+162640.2 A,3,Imaging,1,0,0,0
+XO-1 b,XO-1,3,Transit,1,0,1,0
+XO-2 N b,XO-2 N,3,Transit,1,0,1,0
+XO-2 S b,XO-2 S,3,Radial Velocity,2,0,0,0
+XO-2 S c,XO-2 S,3,Radial Velocity,2,0,0,0
+XO-3 b,XO-3,3,Transit,1,0,1,0
+XO-4 b,XO-4,3,Transit,1,0,1,0
+XO-5 b,XO-5,3,Transit,1,0,1,0
